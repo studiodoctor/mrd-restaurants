@@ -1,0 +1,6154 @@
+{
+ "version": 2,
+ "restaurants": [
+  {
+   "id": "r-1001",
+   "name": "Newlands Grill",
+   "cuisines": [
+    "Steakhouse",
+    "Burgers"
+   ],
+   "rating": 3.6,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 20,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1588168333986-5078d3ae3976?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 17.0,
+   "neighbourhood": "Claremont",
+   "description": "Flame-grilled steaks aged for 28 days, served with hand-cut chips and house-made sauces.",
+   "address": "56 Chiappini Street, Claremont",
+   "opens_at": "11:00",
+   "closes_at": "23:30",
+   "price_level": 1,
+   "review_count": 832,
+   "min_order_cents": 15000,
+   "tags": [
+    "Vegetarian friendly"
+   ]
+  },
+  {
+   "id": "r-1002",
+   "name": "Newlands Maki House",
+   "cuisines": [
+    "Sushi",
+    "Japanese"
+   ],
+   "rating": 4.0,
+   "delivery_fee_cents": 2900,
+   "eta_minutes": 36,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 13.7,
+   "neighbourhood": "Morningside",
+   "description": "Modern Japanese kitchen: crisp tempura, delicate rolls and generous platters for sharing.",
+   "address": "27 Kloof Street, Morningside",
+   "opens_at": "10:00",
+   "closes_at": "20:00",
+   "price_level": 2,
+   "review_count": 1426,
+   "min_order_cents": 10000,
+   "tags": [
+    "Halaal",
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1003",
+   "name": "Melville Pizzeria",
+   "cuisines": [
+    "Pizza",
+    "Italian"
+   ],
+   "rating": null,
+   "delivery_fee_cents": 2500,
+   "eta_minutes": 51,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1604382354936-07c5d9983bd3?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 12.6,
+   "neighbourhood": "Parktown",
+   "description": "Slow-proved dough, San Marzano tomatoes and a roaring wood-fired oven.",
+   "address": "198 Vilakazi Street, Parktown",
+   "opens_at": null,
+   "closes_at": null,
+   "price_level": 3,
+   "review_count": 1574,
+   "min_order_cents": 5000,
+   "tags": [
+    "Top rated",
+    "Vegetarian friendly",
+    "Late night"
+   ]
+  },
+  {
+   "id": "r-1004",
+   "name": "Fourways Patty Co.",
+   "cuisines": [
+    "Burgers"
+   ],
+   "rating": 3.5,
+   "delivery_fee_cents": 0,
+   "eta_minutes": null,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 10.9,
+   "neighbourhood": "Morningside",
+   "description": null,
+   "address": "42 Victoria Road, Morningside",
+   "opens_at": "10:00",
+   "closes_at": "22:00",
+   "price_level": 4,
+   "review_count": 2299,
+   "min_order_cents": null,
+   "tags": [
+    "Family favourite",
+    "Great for groups"
+   ]
+  },
+  {
+   "id": "r-1005",
+   "name": "Claremont Curry House",
+   "cuisines": [
+    "Indian"
+   ],
+   "rating": 4.5,
+   "delivery_fee_cents": 2900,
+   "eta_minutes": 32,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 15.7,
+   "neighbourhood": "Gardens",
+   "description": "Family recipes from across India with fresh spices ground in-house.",
+   "address": "55 Dorp Street, Gardens",
+   "opens_at": "10:00",
+   "closes_at": "23:00",
+   "price_level": 1,
+   "review_count": 589,
+   "min_order_cents": 0,
+   "tags": [
+    "Halaal"
+   ]
+  },
+  {
+   "id": "r-1006",
+   "name": "100% Vegan Kitchen",
+   "cuisines": [
+    "Vegan",
+    "Healthy"
+   ],
+   "rating": null,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 46,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 12.6,
+   "neighbourhood": "Rosebank",
+   "description": "Wok-fired classics, hand-folded dumplings and generous family-style portions.",
+   "address": "40 Oxford Road, Rosebank",
+   "opens_at": "12:00",
+   "closes_at": "23:00",
+   "price_level": 2,
+   "review_count": 1594,
+   "min_order_cents": 7500,
+   "tags": [
+    "Top rated",
+    "Healthy",
+    "Family favourite"
+   ]
+  },
+  {
+   "id": "r-1007",
+   "name": "Under_Score Eats",
+   "cuisines": [
+    "Thai",
+    "Asian"
+   ],
+   "rating": 4.4,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 63,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1568882041008-c0954e91caba?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 11.7,
+   "neighbourhood": "Claremont",
+   "description": "Bright, balanced Thai flavours: sweet, sour, salty and hot in every bite.",
+   "address": "76 Beach Road, Claremont",
+   "opens_at": "08:00",
+   "closes_at": "23:00",
+   "price_level": 1,
+   "review_count": 1096,
+   "min_order_cents": 10000,
+   "tags": []
+  },
+  {
+   "id": "r-1008",
+   "name": "Durban North Burrito Bar",
+   "cuisines": [
+    "Mexican"
+   ],
+   "rating": 4.7,
+   "delivery_fee_cents": 2500,
+   "eta_minutes": 63,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 1.7,
+   "neighbourhood": "Rosebank",
+   "description": "Tacos, burritos and sizzling fajitas with tortillas pressed fresh every day.",
+   "address": "154 Regent Road, Rosebank",
+   "opens_at": "10:00",
+   "closes_at": "20:00",
+   "price_level": 1,
+   "review_count": 1504,
+   "min_order_cents": 5000,
+   "tags": [
+    "Top rated",
+    "Late night",
+    "Family favourite"
+   ]
+  },
+  {
+   "id": "r-1009",
+   "name": "Stellenbosch Piri-Piri",
+   "cuisines": [
+    "Portuguese",
+    "Chicken"
+   ],
+   "rating": 3.3,
+   "delivery_fee_cents": null,
+   "eta_minutes": 57,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 13.3,
+   "neighbourhood": "Rosebank",
+   "description": "Portuguese-inspired grill with crispy chips, spicy sauces and custard tarts.",
+   "address": null,
+   "opens_at": "08:00",
+   "closes_at": "23:30",
+   "price_level": 3,
+   "review_count": 841,
+   "min_order_cents": 15000,
+   "tags": [
+    "Vegetarian friendly",
+    "Late night"
+   ]
+  },
+  {
+   "id": "r-1010",
+   "name": "Parktown Green Table",
+   "cuisines": [
+    "Vegan"
+   ],
+   "rating": 4.3,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 29,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1606757819934-d61a9f7279d5?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 14.4,
+   "neighbourhood": "Sandton",
+   "description": "100% plant-based comfort food that doesn't feel like a compromise.",
+   "address": "151 Chiappini Street, Sandton",
+   "opens_at": "07:00",
+   "closes_at": "20:00",
+   "price_level": 3,
+   "review_count": 259,
+   "min_order_cents": 0,
+   "tags": [
+    "Late night",
+    "Gluten-free options",
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1011",
+   "name": "Camps Bay Fish Market",
+   "cuisines": [
+    "Seafood"
+   ],
+   "rating": 3.3,
+   "delivery_fee_cents": 3500,
+   "eta_minutes": 28,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1571167366136-b57e07761625?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 6.5,
+   "neighbourhood": "Claremont",
+   "description": "Coastal kitchen with the day's catch, cold drinks and a sea breeze on the menu.",
+   "address": "63 Dorp Street, Claremont",
+   "opens_at": null,
+   "closes_at": null,
+   "price_level": 1,
+   "review_count": null,
+   "min_order_cents": 5000,
+   "tags": [
+    "Great for groups"
+   ]
+  },
+  {
+   "id": "r-1012",
+   "name": "Bryanston Roastery",
+   "cuisines": null,
+   "rating": 4.3,
+   "delivery_fee_cents": 2900,
+   "eta_minutes": 61,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1595273193369-54bb86334a38?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 2.8,
+   "neighbourhood": "Sea Point",
+   "description": "All-day breakfasts, good coffee and cabinet cakes that vanish by lunchtime.",
+   "address": "50 Florida Road, Sea Point",
+   "opens_at": "11:00",
+   "closes_at": "23:00",
+   "price_level": 1,
+   "review_count": 769,
+   "min_order_cents": 5000,
+   "tags": []
+  },
+  {
+   "id": "r-1013",
+   "name": "Fourways Creamery",
+   "cuisines": [
+    "Dessert"
+   ],
+   "rating": 3.3,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 25,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1606890737304-57a1ca8a5b62?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 0.6,
+   "neighbourhood": "Camps Bay",
+   "description": "Small-batch ice cream, warm cookies and shakes thick enough to need a spoon.",
+   "address": "232 Long Street, Camps Bay",
+   "opens_at": "08:00",
+   "closes_at": "23:00",
+   "price_level": 1,
+   "review_count": 1617,
+   "min_order_cents": 5000,
+   "tags": [
+    "Vegetarian friendly",
+    "Halaal",
+    "Late night"
+   ]
+  },
+  {
+   "id": "r-1014",
+   "name": "Fourways Olive Tree",
+   "cuisines": [
+    "Mediterranean",
+    "Middle Eastern"
+   ],
+   "rating": 3.5,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 18,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1653611540493-b3a896319fbf?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 3.6,
+   "neighbourhood": "Maboneng",
+   "description": "Sun-soaked Mediterranean cooking built on olive oil, lemon and fresh herbs.",
+   "address": "129 Oxford Road, Maboneng",
+   "opens_at": "07:00",
+   "closes_at": "23:30",
+   "price_level": null,
+   "review_count": 779,
+   "min_order_cents": 0,
+   "tags": [
+    "Family favourite",
+    "Halaal"
+   ]
+  },
+  {
+   "id": "r-1015",
+   "name": "Braamfontein BBQ",
+   "cuisines": [
+    "Korean",
+    "Asian"
+   ],
+   "rating": 3.9,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 35,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1708388064278-707e85eaddc0?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 11.6,
+   "neighbourhood": null,
+   "description": "Bold, fermented, fiery flavours with banchan to share.",
+   "address": "62 Rivonia Road, Bryanston",
+   "opens_at": "10:00",
+   "closes_at": "21:00",
+   "price_level": 3,
+   "review_count": 1246,
+   "min_order_cents": 7500,
+   "tags": [
+    "Family favourite",
+    "Halaal",
+    "Vegetarian friendly"
+   ]
+  },
+  {
+   "id": "r-1016",
+   "name": "Gardens Chicken Shack",
+   "cuisines": [
+    "Chicken",
+    "Burgers"
+   ],
+   "rating": 3.3,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 37,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1426869981800-95ebf51ce900?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 5.3,
+   "neighbourhood": "Melville",
+   "description": "Wings, strips and sandwiches in every heat level, plus all the sides.",
+   "address": "73 Oxford Road, Melville",
+   "opens_at": "10:00",
+   "closes_at": "23:30",
+   "price_level": 3,
+   "review_count": 2184,
+   "min_order_cents": 0,
+   "tags": [
+    "Late night"
+   ]
+  },
+  {
+   "id": "r-1017",
+   "name": "Claremont Plant Kitchen",
+   "cuisines": [
+    "Vegan"
+   ],
+   "rating": 3.4,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 24,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1569760142069-bc6838de16c1?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 7.0,
+   "neighbourhood": "Sandton",
+   "description": "Colourful bowls, hearty mains and sweet treats, all made without animal products.",
+   "address": "53 Rivonia Road, Sandton",
+   "opens_at": "11:00",
+   "closes_at": "23:00",
+   "price_level": 2,
+   "review_count": 226,
+   "min_order_cents": 0,
+   "tags": [
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1018",
+   "name": "Melville Meze",
+   "cuisines": [
+    "Mediterranean",
+    "Greek"
+   ],
+   "rating": 4.3,
+   "delivery_fee_cents": 2900,
+   "eta_minutes": 50,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1523986371872-9d3ba2e2a389?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 7.2,
+   "neighbourhood": "Green Point",
+   "description": "Sharing plates, charcoal-grilled meats and warm pita from the oven.",
+   "address": "140 Long Street, Green Point",
+   "opens_at": "09:00",
+   "closes_at": "23:30",
+   "price_level": 2,
+   "review_count": 1778,
+   "min_order_cents": 0,
+   "tags": [
+    "Vegan options",
+    "Gluten-free options"
+   ]
+  },
+  {
+   "id": "r-1019",
+   "name": "Parktown Sushi Co.",
+   "cuisines": [
+    "Sushi"
+   ],
+   "rating": 4.6,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 58,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 2.8,
+   "neighbourhood": null,
+   "description": "Modern Japanese kitchen: crisp tempura, delicate rolls and generous platters for sharing.",
+   "address": "159 Jan Smuts Avenue, Woodstock",
+   "opens_at": "08:00",
+   "closes_at": "21:00",
+   "price_level": 4,
+   "review_count": 743,
+   "min_order_cents": 7500,
+   "tags": []
+  },
+  {
+   "id": "r-1020",
+   "name": "Durban North Braai House",
+   "cuisines": [
+    "Steakhouse"
+   ],
+   "rating": 3.9,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 39,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1600891964092-4316c288032e?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 13.3,
+   "neighbourhood": "Durban North",
+   "description": "Flame-grilled steaks aged for 28 days, served with hand-cut chips and house-made sauces.",
+   "address": "52 Victoria Road, Durban North",
+   "opens_at": "09:00",
+   "closes_at": "22:00",
+   "price_level": 3,
+   "review_count": 950,
+   "min_order_cents": 0,
+   "tags": [
+    "Great for groups"
+   ]
+  },
+  {
+   "id": "r-1021",
+   "name": "Claremont Steakhouse",
+   "cuisines": [
+    "Steakhouse",
+    "Burgers"
+   ],
+   "rating": 4.7,
+   "delivery_fee_cents": null,
+   "eta_minutes": 36,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1558030089-02acba3c214e?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 7.5,
+   "neighbourhood": "Observatory",
+   "description": "A neighbourhood steakhouse built around the fire: proper cuts, honest sides, generous portions.",
+   "address": "46 Rivonia Road, Observatory",
+   "opens_at": "07:00",
+   "closes_at": "20:00",
+   "price_level": 2,
+   "review_count": 1433,
+   "min_order_cents": 15000,
+   "tags": [
+    "Top rated",
+    "Healthy",
+    "Late night"
+   ]
+  },
+  {
+   "id": "r-1022",
+   "name": "Bryanston Catch of the Day",
+   "cuisines": [
+    "Seafood"
+   ],
+   "rating": 3.4,
+   "delivery_fee_cents": 2900,
+   "eta_minutes": 15,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1651323018466-b36b7df1d2b1?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 1.1,
+   "neighbourhood": "Morningside",
+   "description": "Line-caught fish, plump prawns and sweet calamari, cooked simply and served fast.",
+   "address": "94 Beach Road, Morningside",
+   "opens_at": "07:00",
+   "closes_at": "22:00",
+   "price_level": 2,
+   "review_count": 528,
+   "min_order_cents": 15000,
+   "tags": [
+    "Family favourite",
+    "Great for groups",
+    "Halaal"
+   ]
+  },
+  {
+   "id": "r-1023",
+   "name": "Hout Bay Green Table",
+   "cuisines": [
+    "Vegan",
+    "Vegetarian"
+   ],
+   "rating": 3.9,
+   "delivery_fee_cents": 2900,
+   "eta_minutes": 57,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1569760142069-bc6838de16c1?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 3.1,
+   "neighbourhood": "Umhlanga",
+   "description": "100% plant-based comfort food that doesn't feel like a compromise.",
+   "address": "158 Vilakazi Street, Umhlanga",
+   "opens_at": "10:00",
+   "closes_at": "23:30",
+   "price_level": 3,
+   "review_count": 1262,
+   "min_order_cents": 5000,
+   "tags": [
+    "Late night",
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1024",
+   "name": "Bryanston Lemongrass",
+   "cuisines": [
+    "Thai",
+    "Noodles"
+   ],
+   "rating": null,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 57,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 8.8,
+   "neighbourhood": "Constantia",
+   "description": "Street-food favourites and slow-cooked curries made with fresh herbs.",
+   "address": "24 Chiappini Street, Constantia",
+   "opens_at": "12:00",
+   "closes_at": "22:00",
+   "price_level": 1,
+   "review_count": 833,
+   "min_order_cents": 0,
+   "tags": [
+    "Family favourite",
+    "Late night"
+   ]
+  },
+  {
+   "id": "r-1025",
+   "name": "Sea Point Steakhouse",
+   "cuisines": [
+    "Steakhouse"
+   ],
+   "rating": 4.2,
+   "delivery_fee_cents": 2900,
+   "eta_minutes": 55,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1588168333986-5078d3ae3976?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 10.3,
+   "neighbourhood": "Fourways",
+   "description": "A neighbourhood steakhouse built around the fire: proper cuts, honest sides, generous portions.",
+   "address": null,
+   "opens_at": "08:00",
+   "closes_at": "21:00",
+   "price_level": 2,
+   "review_count": 40,
+   "min_order_cents": 0,
+   "tags": []
+  },
+  {
+   "id": "r-1026",
+   "name": "Stellenbosch Meze",
+   "cuisines": [
+    "Mediterranean"
+   ],
+   "rating": 4.4,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 44,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1677686707294-e5f616c39e0b?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 17.9,
+   "neighbourhood": "Stellenbosch",
+   "description": "Sun-soaked Mediterranean cooking built on olive oil, lemon and fresh herbs.",
+   "address": "194 Victoria Road, Stellenbosch",
+   "opens_at": "11:00",
+   "closes_at": "23:30",
+   "price_level": 2,
+   "review_count": 2262,
+   "min_order_cents": 7500,
+   "tags": [
+    "Halaal",
+    "Late night"
+   ]
+  },
+  {
+   "id": "r-1027",
+   "name": "Menlyn Dumpling House",
+   "cuisines": [
+    "Chinese",
+    "Asian"
+   ],
+   "rating": null,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 32,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1523905330026-b8bd1f5f320e?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 15.7,
+   "neighbourhood": "Newlands",
+   "description": "Wok-fired classics, hand-folded dumplings and generous family-style portions.",
+   "address": "70 Regent Road, Newlands",
+   "opens_at": "09:00",
+   "closes_at": "23:30",
+   "price_level": 1,
+   "review_count": 635,
+   "min_order_cents": 0,
+   "tags": [
+    "Late night",
+    "Gluten-free options"
+   ]
+  },
+  {
+   "id": "r-1028",
+   "name": "Morningside Creamery",
+   "cuisines": [
+    "Dessert",
+    "Bakery"
+   ],
+   "rating": 3.9,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 28,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1517427294546-5aa121f68e8a?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 1.5,
+   "neighbourhood": "Bryanston",
+   "description": "Waffles, gelato and baked-to-order treats for anyone with a sweet tooth.",
+   "address": "220 Church Street, Bryanston",
+   "opens_at": "10:00",
+   "closes_at": "20:00",
+   "price_level": 4,
+   "review_count": 1241,
+   "min_order_cents": 7500,
+   "tags": [
+    "Late night",
+    "Gluten-free options"
+   ]
+  },
+  {
+   "id": "r-1029",
+   "name": "Green Point Souk",
+   "cuisines": [
+    "Mediterranean",
+    "Greek"
+   ],
+   "rating": 4.0,
+   "delivery_fee_cents": 2900,
+   "eta_minutes": 36,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1653611540493-b3a896319fbf?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 17.9,
+   "neighbourhood": "Cape Town",
+   "description": "Sharing plates, charcoal-grilled meats and warm pita from the oven.",
+   "address": "216 Victoria Road, Cape Town",
+   "opens_at": "08:00",
+   "closes_at": "23:30",
+   "price_level": null,
+   "review_count": 1631,
+   "min_order_cents": 10000,
+   "tags": [
+    "Spicy",
+    "Gluten-free options"
+   ]
+  },
+  {
+   "id": "r-1030",
+   "name": "Camps Bay Chop House",
+   "cuisines": [
+    "Steakhouse",
+    "Burgers"
+   ],
+   "rating": 3.5,
+   "delivery_fee_cents": 3500,
+   "eta_minutes": 35,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 11.9,
+   "neighbourhood": "Umhlanga",
+   "description": "A neighbourhood steakhouse built around the fire: proper cuts, honest sides, generous portions.",
+   "address": "193 Beach Road, Umhlanga",
+   "opens_at": "09:00",
+   "closes_at": "20:00",
+   "price_level": 2,
+   "review_count": 2227,
+   "min_order_cents": 0,
+   "tags": [
+    "Spicy",
+    "Healthy"
+   ]
+  },
+  {
+   "id": "r-bad-rating",
+   "name": "Corrupt Rating Cafe",
+   "cuisines": [
+    "Cafe"
+   ],
+   "rating": "n/a",
+   "is_open": true
+  },
+  {
+   "id": "r-1031",
+   "name": "Stellenbosch Brunch Spot",
+   "cuisines": [
+    "Cafe",
+    "Breakfast"
+   ],
+   "rating": 4.5,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 30,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1601759226606-1352c1290364?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 3.8,
+   "neighbourhood": "Cape Town",
+   "description": "All-day breakfasts, good coffee and cabinet cakes that vanish by lunchtime.",
+   "address": "120 Rivonia Road, Cape Town",
+   "opens_at": "09:00",
+   "closes_at": "21:00",
+   "price_level": 2,
+   "review_count": 487,
+   "min_order_cents": null,
+   "tags": [
+    "Family favourite"
+   ]
+  },
+  {
+   "id": "r-1032",
+   "name": "Sandton Leaf & Bean",
+   "cuisines": [
+    "Vegan",
+    "Vegetarian"
+   ],
+   "rating": 4.2,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 21,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1623428187969-5da2dcea5ebf?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 8.2,
+   "neighbourhood": "Camps Bay",
+   "description": null,
+   "address": "204 Long Street, Camps Bay",
+   "opens_at": "09:00",
+   "closes_at": "23:30",
+   "price_level": 2,
+   "review_count": null,
+   "min_order_cents": 0,
+   "tags": [
+    "Spicy",
+    "Family favourite",
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1033",
+   "name": "Cape Town Oyster Bar",
+   "cuisines": [
+    "Seafood"
+   ],
+   "rating": null,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 61,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1615141982883-c7ad0e69fd62?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 14.1,
+   "neighbourhood": "Bryanston",
+   "description": "Coastal kitchen with the day's catch, cold drinks and a sea breeze on the menu.",
+   "address": "120 Beach Road, Bryanston",
+   "opens_at": "12:00",
+   "closes_at": "23:30",
+   "price_level": 2,
+   "review_count": 1023,
+   "min_order_cents": 0,
+   "tags": [
+    "Gluten-free options",
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1034",
+   "name": "Fourways Piri-Piri",
+   "cuisines": [
+    "Portuguese"
+   ],
+   "rating": 4.2,
+   "delivery_fee_cents": 2500,
+   "eta_minutes": 26,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1426869981800-95ebf51ce900?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 2.0,
+   "neighbourhood": "Constantia",
+   "description": "Portuguese-inspired grill with crispy chips, spicy sauces and custard tarts.",
+   "address": "88 Rivonia Road, Constantia",
+   "opens_at": "11:00",
+   "closes_at": "22:00",
+   "price_level": 2,
+   "review_count": 2134,
+   "min_order_cents": 0,
+   "tags": [
+    "Healthy",
+    "Halaal"
+   ]
+  },
+  {
+   "id": "r-1035",
+   "name": "Stellenbosch Slice Co.",
+   "cuisines": [
+    "Pizza",
+    "Italian"
+   ],
+   "rating": 4.4,
+   "delivery_fee_cents": 1900,
+   "eta_minutes": 29,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 3.4,
+   "neighbourhood": "Camps Bay",
+   "description": "Thin, blistered Neapolitan-style pizzas with simple, seriously good toppings.",
+   "address": "122 Loop Street, Camps Bay",
+   "opens_at": "10:00",
+   "closes_at": "23:30",
+   "price_level": 2,
+   "review_count": 1876,
+   "min_order_cents": 5000,
+   "tags": [
+    "Gluten-free options",
+    "Halaal"
+   ]
+  },
+  {
+   "id": "r-1036",
+   "name": "Melville Plant Kitchen",
+   "cuisines": [
+    "Vegan",
+    "Healthy"
+   ],
+   "rating": 3.7,
+   "delivery_fee_cents": 3500,
+   "eta_minutes": 32,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1626711934535-9749ea30dba8?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 8.0,
+   "neighbourhood": "Menlyn",
+   "description": "Colourful bowls, hearty mains and sweet treats, all made without animal products.",
+   "address": "26 Florida Road, Menlyn",
+   "opens_at": "09:00",
+   "closes_at": "21:00",
+   "price_level": 2,
+   "review_count": 1256,
+   "min_order_cents": 0,
+   "tags": [
+    "Vegan options",
+    "Family favourite",
+    "Late night"
+   ]
+  },
+  {
+   "id": "r-1037",
+   "name": "Melville Tandoor",
+   "cuisines": [
+    "Indian"
+   ],
+   "rating": 4.1,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 51,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 2.9,
+   "neighbourhood": "Sandton",
+   "description": "Family recipes from across India with fresh spices ground in-house.",
+   "address": "48 Long Street, Sandton",
+   "opens_at": "09:00",
+   "closes_at": "23:00",
+   "price_level": 1,
+   "review_count": 285,
+   "min_order_cents": 7500,
+   "tags": [
+    "Gluten-free options"
+   ]
+  },
+  {
+   "id": "r-1038",
+   "name": "Camps Bay Fried Chicken Co.",
+   "cuisines": [
+    "Chicken",
+    "Burgers"
+   ],
+   "rating": 3.5,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 63,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1730900737724-5b752e1ed3dd?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 8.4,
+   "neighbourhood": null,
+   "description": "Buttermilk-brined, twice-fried chicken with crunch you can hear.",
+   "address": "199 Church Street, Sandton",
+   "opens_at": "10:00",
+   "closes_at": "23:00",
+   "price_level": 2,
+   "review_count": 1774,
+   "min_order_cents": 5000,
+   "tags": [
+    "Great for groups",
+    "Vegetarian friendly",
+    "Family favourite"
+   ]
+  },
+  {
+   "id": "r-1039",
+   "name": "Braamfontein Maki House",
+   "cuisines": [
+    "Sushi",
+    "Japanese"
+   ],
+   "rating": 4.3,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": null,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 10.6,
+   "neighbourhood": "Stellenbosch",
+   "description": "Modern Japanese kitchen: crisp tempura, delicate rolls and generous platters for sharing.",
+   "address": "177 Dorp Street, Stellenbosch",
+   "opens_at": "09:00",
+   "closes_at": "20:00",
+   "price_level": 1,
+   "review_count": 1176,
+   "min_order_cents": 15000,
+   "tags": [
+    "Vegetarian friendly",
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1040",
+   "name": "Camps Bay Seoul Kitchen",
+   "cuisines": [
+    "Korean",
+    "Grill"
+   ],
+   "rating": 4.5,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 56,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1708388064278-707e85eaddc0?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 8.4,
+   "neighbourhood": "Green Point",
+   "description": "Sizzling Korean BBQ, bubbling stews and crunchy fried chicken.",
+   "address": "19 Long Street, Green Point",
+   "opens_at": "08:00",
+   "closes_at": "22:00",
+   "price_level": 2,
+   "review_count": 2349,
+   "min_order_cents": 5000,
+   "tags": [
+    "Family favourite",
+    "Spicy",
+    "Vegetarian friendly"
+   ]
+  },
+  {
+   "id": "r-1041",
+   "name": "Sandton Kimchi House",
+   "cuisines": [
+    "Korean",
+    "Grill"
+   ],
+   "rating": 4.8,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 42,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1498654896293-37aacf113fd9?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 3.1,
+   "neighbourhood": "Camps Bay",
+   "description": "Sizzling Korean BBQ, bubbling stews and crunchy fried chicken.",
+   "address": "24 Chiappini Street, Camps Bay",
+   "opens_at": "12:00",
+   "closes_at": "23:30",
+   "price_level": 2,
+   "review_count": null,
+   "min_order_cents": 15000,
+   "tags": [
+    "Top rated",
+    "Late night",
+    "Gluten-free options",
+    "Comfort food"
+   ]
+  },
+  {
+   "id": "r-1042",
+   "name": "Maboneng Piri-Piri",
+   "cuisines": [
+    "Portuguese"
+   ],
+   "rating": 3.5,
+   "delivery_fee_cents": 2900,
+   "eta_minutes": 55,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 13.4,
+   "neighbourhood": "Maboneng",
+   "description": "Portuguese-inspired grill with crispy chips, spicy sauces and custard tarts.",
+   "address": "90 Beach Road, Maboneng",
+   "opens_at": "09:00",
+   "closes_at": "22:00",
+   "price_level": 3,
+   "review_count": 676,
+   "min_order_cents": 5000,
+   "tags": [
+    "Gluten-free options",
+    "Great for groups",
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1043",
+   "name": "Morningside Olive Tree",
+   "cuisines": [
+    "Mediterranean",
+    "Middle Eastern"
+   ],
+   "rating": 4.6,
+   "delivery_fee_cents": 1900,
+   "eta_minutes": 35,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1523986371872-9d3ba2e2a389?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 12.5,
+   "neighbourhood": "Gardens",
+   "description": "Sharing plates, charcoal-grilled meats and warm pita from the oven.",
+   "address": "169 Victoria Road, Gardens",
+   "opens_at": "10:00",
+   "closes_at": "20:00",
+   "price_level": 1,
+   "review_count": 1499,
+   "min_order_cents": null,
+   "tags": [
+    "Halaal",
+    "Gluten-free options",
+    "Vegetarian friendly"
+   ]
+  },
+  {
+   "id": "r-1044",
+   "name": "Newlands Wing Factory",
+   "cuisines": [
+    "Chicken"
+   ],
+   "rating": 3.5,
+   "delivery_fee_cents": 3500,
+   "eta_minutes": 22,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1730900737724-5b752e1ed3dd?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 12.1,
+   "neighbourhood": "Morningside",
+   "description": "Buttermilk-brined, twice-fried chicken with crunch you can hear.",
+   "address": "182 Oxford Road, Morningside",
+   "opens_at": "09:00",
+   "closes_at": "23:30",
+   "price_level": 1,
+   "review_count": 1689,
+   "min_order_cents": 0,
+   "tags": [
+    "Vegan options",
+    "Great for groups",
+    "Gluten-free options"
+   ]
+  },
+  {
+   "id": "r-1045",
+   "name": "Sandton Cantina",
+   "cuisines": [],
+   "rating": 4.3,
+   "delivery_fee_cents": 1900,
+   "eta_minutes": 47,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1545093149-618ce3bcf49d?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 3.9,
+   "neighbourhood": "Morningside",
+   "description": "Casual cantina energy: big flavours, zingy salsas and ice-cold drinks.",
+   "address": "121 Chiappini Street, Morningside",
+   "opens_at": "10:00",
+   "closes_at": "23:30",
+   "price_level": 1,
+   "review_count": 798,
+   "min_order_cents": 10000,
+   "tags": [
+    "Gluten-free options"
+   ]
+  },
+  {
+   "id": "r-1046",
+   "name": "Camps Bay Curry House",
+   "cuisines": [
+    "Indian"
+   ],
+   "rating": 4.7,
+   "delivery_fee_cents": 1900,
+   "eta_minutes": 61,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1631292784640-2b24be784d5d?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 11.3,
+   "neighbourhood": "Cape Town",
+   "description": "Family recipes from across India with fresh spices ground in-house.",
+   "address": "222 Jan Smuts Avenue, Cape Town",
+   "opens_at": "10:00",
+   "closes_at": "23:30",
+   "price_level": 2,
+   "review_count": 1379,
+   "min_order_cents": 10000,
+   "tags": [
+    "Top rated",
+    "Late night",
+    "Great for groups"
+   ]
+  },
+  {
+   "id": "r-1047",
+   "name": "Fourways Sweet Tooth",
+   "cuisines": [
+    "Dessert"
+   ],
+   "rating": 4.9,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 64,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 16.5,
+   "neighbourhood": null,
+   "description": "Small-batch ice cream, warm cookies and shakes thick enough to need a spoon.",
+   "address": "181 Church Street, Observatory",
+   "opens_at": "10:00",
+   "closes_at": "21:00",
+   "price_level": 2,
+   "review_count": 169,
+   "min_order_cents": 0,
+   "tags": [
+    "Top rated",
+    "Comfort food"
+   ]
+  },
+  {
+   "id": "r-1048",
+   "name": "Sandton Oyster Bar",
+   "cuisines": [
+    "Seafood",
+    "Grill"
+   ],
+   "rating": null,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 19,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1672636401225-ec3d4025a4af?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 13.2,
+   "neighbourhood": "Newlands",
+   "description": "Coastal kitchen with the day's catch, cold drinks and a sea breeze on the menu.",
+   "address": "160 Church Street, Newlands",
+   "opens_at": "12:00",
+   "closes_at": "20:00",
+   "price_level": 3,
+   "review_count": 2203,
+   "min_order_cents": 7500,
+   "tags": [
+    "Spicy"
+   ]
+  },
+  {
+   "id": "r-1049",
+   "name": "Newlands Catch of the Day",
+   "cuisines": [
+    "Seafood"
+   ],
+   "rating": 4.0,
+   "delivery_fee_cents": 1900,
+   "eta_minutes": 29,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1615141982883-c7ad0e69fd62?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 14.9,
+   "neighbourhood": "Newlands",
+   "description": "Line-caught fish, plump prawns and sweet calamari, cooked simply and served fast.",
+   "address": "195 Bree Street, Newlands",
+   "opens_at": "10:00",
+   "closes_at": "21:00",
+   "price_level": 3,
+   "review_count": 136,
+   "min_order_cents": 0,
+   "tags": [
+    "Halaal",
+    "Vegetarian friendly",
+    "Family favourite"
+   ]
+  },
+  {
+   "id": "r-1050",
+   "name": "Sea Point Oyster Bar",
+   "cuisines": [
+    "Seafood",
+    "Grill"
+   ],
+   "rating": 3.4,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 54,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1651323018466-b36b7df1d2b1?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 9.1,
+   "neighbourhood": null,
+   "description": "Line-caught fish, plump prawns and sweet calamari, cooked simply and served fast.",
+   "address": "128 Jan Smuts Avenue, Durban North",
+   "opens_at": "08:00",
+   "closes_at": "23:00",
+   "price_level": 2,
+   "review_count": 1900,
+   "min_order_cents": 5000,
+   "tags": [
+    "Spicy",
+    "Vegan options",
+    "Late night"
+   ]
+  },
+  {
+   "id": "r-1051",
+   "name": "Fourways Braai House",
+   "cuisines": [
+    "Steakhouse",
+    "Grill"
+   ],
+   "rating": 3.3,
+   "delivery_fee_cents": 2900,
+   "eta_minutes": 59,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1558030089-02acba3c214e?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 13.4,
+   "neighbourhood": "Newlands",
+   "description": "Flame-grilled steaks aged for 28 days, served with hand-cut chips and house-made sauces.",
+   "address": null,
+   "opens_at": "07:00",
+   "closes_at": "21:00",
+   "price_level": null,
+   "review_count": 1488,
+   "min_order_cents": 10000,
+   "tags": [
+    "Comfort food",
+    "Great for groups"
+   ]
+  },
+  {
+   "id": "r-1052",
+   "name": "Morningside Green Table",
+   "cuisines": [
+    "Vegan",
+    "Vegetarian"
+   ],
+   "rating": 3.7,
+   "delivery_fee_cents": 2500,
+   "eta_minutes": 29,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1606757819934-d61a9f7279d5?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 12.3,
+   "neighbourhood": "Stellenbosch",
+   "description": "100% plant-based comfort food that doesn't feel like a compromise.",
+   "address": "161 Bree Street, Stellenbosch",
+   "opens_at": "12:00",
+   "closes_at": "20:00",
+   "price_level": 2,
+   "review_count": 1823,
+   "min_order_cents": 0,
+   "tags": [
+    "Halaal",
+    "Gluten-free options",
+    "Great for groups",
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1053",
+   "name": "Menlyn Cafe",
+   "cuisines": [
+    "Cafe",
+    "Bakery"
+   ],
+   "rating": 3.8,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 38,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1766557050127-756f8fcb905c?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 7.7,
+   "neighbourhood": "Rosebank",
+   "description": "All-day breakfasts, good coffee and cabinet cakes that vanish by lunchtime.",
+   "address": "66 Dorp Street, Rosebank",
+   "opens_at": "09:00",
+   "closes_at": "22:00",
+   "price_level": 3,
+   "review_count": 1936,
+   "min_order_cents": 0,
+   "tags": [
+    "Vegan options",
+    "Family favourite"
+   ]
+  },
+  {
+   "id": "r-1054",
+   "name": "Stellenbosch Spice Route",
+   "cuisines": [
+    "Indian",
+    "Vegetarian"
+   ],
+   "rating": 4.8,
+   "delivery_fee_cents": 1900,
+   "eta_minutes": 49,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 5.4,
+   "neighbourhood": "Cape Town",
+   "description": "Family recipes from across India with fresh spices ground in-house.",
+   "address": null,
+   "opens_at": "12:00",
+   "closes_at": "22:00",
+   "price_level": 1,
+   "review_count": 975,
+   "min_order_cents": 7500,
+   "tags": [
+    "Top rated",
+    "Healthy",
+    "Vegetarian friendly",
+    "Spicy"
+   ]
+  },
+  {
+   "id": "r-no-name",
+   "cuisines": [
+    "Pizza"
+   ],
+   "rating": 4.0,
+   "is_open": true
+  },
+  {
+   "id": "r-1055",
+   "name": "Braamfontein Braai House",
+   "cuisines": [
+    "Steakhouse"
+   ],
+   "rating": 3.6,
+   "delivery_fee_cents": 3500,
+   "eta_minutes": 59,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1588168333986-5078d3ae3976?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 17.3,
+   "neighbourhood": "Newlands",
+   "description": "Flame-grilled steaks aged for 28 days, served with hand-cut chips and house-made sauces.",
+   "address": "12 Long Street, Newlands",
+   "opens_at": "09:00",
+   "closes_at": "23:00",
+   "price_level": 1,
+   "review_count": 979,
+   "min_order_cents": 10000,
+   "tags": []
+  },
+  {
+   "id": "r-1056",
+   "name": "Observatory Curry House",
+   "cuisines": [
+    "Indian",
+    "Vegetarian"
+   ],
+   "rating": 4.2,
+   "delivery_fee_cents": 0,
+   "eta_minutes": null,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1708782344490-9026aaa5eec7?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 8.1,
+   "neighbourhood": "Newlands",
+   "description": "Family recipes from across India with fresh spices ground in-house.",
+   "address": "9 Loop Street, Newlands",
+   "opens_at": "08:00",
+   "closes_at": "23:00",
+   "price_level": null,
+   "review_count": 985,
+   "min_order_cents": 5000,
+   "tags": [
+    "Spicy"
+   ]
+  },
+  {
+   "id": "r-1057",
+   "name": "Claremont Burger Bar",
+   "cuisines": [
+    "Burgers",
+    "Grill"
+   ],
+   "rating": 3.3,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 57,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1572802419224-296b0aeee0d9?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 3.1,
+   "neighbourhood": "Fourways",
+   "description": "Smashed-to-order patties, toasted buns and sauces made in-house every morning.",
+   "address": "13 Regent Road, Fourways",
+   "opens_at": "08:00",
+   "closes_at": "21:00",
+   "price_level": 3,
+   "review_count": 858,
+   "min_order_cents": 0,
+   "tags": [
+    "Family favourite",
+    "Vegetarian friendly"
+   ]
+  },
+  {
+   "id": "r-1058",
+   "name": "Maboneng Thai Kitchen",
+   "cuisines": [
+    "Thai"
+   ],
+   "rating": 3.6,
+   "delivery_fee_cents": 1900,
+   "eta_minutes": 24,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1552912470-ee2e96439539?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 13.4,
+   "neighbourhood": "Cape Town",
+   "description": "Bright, balanced Thai flavours: sweet, sour, salty and hot in every bite.",
+   "address": "29 Main Road, Cape Town",
+   "opens_at": "08:00",
+   "closes_at": "20:00",
+   "price_level": 2,
+   "review_count": 992,
+   "min_order_cents": 10000,
+   "tags": [
+    "Comfort food"
+   ]
+  },
+  {
+   "id": "r-1059",
+   "name": "Cape Town Fish Market",
+   "cuisines": [
+    "Seafood",
+    "Sushi"
+   ],
+   "rating": 4.5,
+   "delivery_fee_cents": 2500,
+   "eta_minutes": 47,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1571167366136-b57e07761625?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 5.7,
+   "neighbourhood": "Fourways",
+   "description": "Line-caught fish, plump prawns and sweet calamari, cooked simply and served fast.",
+   "address": "158 Long Street, Fourways",
+   "opens_at": "12:00",
+   "closes_at": "23:30",
+   "price_level": 2,
+   "review_count": 145,
+   "min_order_cents": 0,
+   "tags": [
+    "Vegetarian friendly",
+    "Comfort food",
+    "Gluten-free options"
+   ]
+  },
+  {
+   "id": "r-1060",
+   "name": "Observatory Wing Factory",
+   "cuisines": [
+    "Chicken",
+    "American"
+   ],
+   "rating": null,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 19,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 2.0,
+   "neighbourhood": "Gardens",
+   "description": "Wings, strips and sandwiches in every heat level, plus all the sides.",
+   "address": "98 Vilakazi Street, Gardens",
+   "opens_at": "10:00",
+   "closes_at": "23:30",
+   "price_level": 2,
+   "review_count": 424,
+   "min_order_cents": 15000,
+   "tags": [
+    "Vegetarian friendly",
+    "Comfort food"
+   ]
+  },
+  {
+   "id": "r-1061",
+   "name": "Newlands Patty Co.",
+   "cuisines": [
+    "Burgers"
+   ],
+   "rating": 4.1,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 41,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 17.3,
+   "neighbourhood": "Fourways",
+   "description": "Big, messy, unapologetic burgers with loaded fries and thick shakes on the side.",
+   "address": "187 Bree Street, Fourways",
+   "opens_at": "09:00",
+   "closes_at": "23:00",
+   "price_level": 2,
+   "review_count": 1062,
+   "min_order_cents": null,
+   "tags": [
+    "Spicy"
+   ]
+  },
+  {
+   "id": "r-1062",
+   "name": "Camps Bay Tandoor",
+   "cuisines": [
+    "Indian"
+   ],
+   "rating": 3.4,
+   "delivery_fee_cents": 2500,
+   "eta_minutes": 23,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1708782344490-9026aaa5eec7?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 1.5,
+   "neighbourhood": "Menlyn",
+   "description": "Family recipes from across India with fresh spices ground in-house.",
+   "address": "172 Bree Street, Menlyn",
+   "opens_at": "10:00",
+   "closes_at": "22:00",
+   "price_level": 3,
+   "review_count": 1750,
+   "min_order_cents": 15000,
+   "tags": []
+  },
+  {
+   "id": "r-1063",
+   "name": "Parktown Maki House",
+   "cuisines": [
+    "Sushi",
+    "Japanese"
+   ],
+   "rating": 4.2,
+   "delivery_fee_cents": 3500,
+   "eta_minutes": 29,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 4.3,
+   "neighbourhood": "Claremont",
+   "description": "Modern Japanese kitchen: crisp tempura, delicate rolls and generous platters for sharing.",
+   "address": "30 Rivonia Road, Claremont",
+   "opens_at": null,
+   "closes_at": null,
+   "price_level": 3,
+   "review_count": 2315,
+   "min_order_cents": 10000,
+   "tags": [
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1064",
+   "name": "Cape Town Steakhouse",
+   "cuisines": [
+    "Steakhouse",
+    "Burgers"
+   ],
+   "rating": 4.8,
+   "delivery_fee_cents": 2900,
+   "eta_minutes": 19,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1565299715199-866c917206bb?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 4.4,
+   "neighbourhood": "Rosebank",
+   "description": null,
+   "address": null,
+   "opens_at": "10:00",
+   "closes_at": "23:00",
+   "price_level": 2,
+   "review_count": 662,
+   "min_order_cents": 5000,
+   "tags": [
+    "Top rated",
+    "Halaal",
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1065",
+   "name": "Menlyn Green Table",
+   "cuisines": [
+    "Vegan"
+   ],
+   "rating": 4.2,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 25,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1569760142069-bc6838de16c1?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 17.1,
+   "neighbourhood": null,
+   "description": "100% plant-based comfort food that doesn't feel like a compromise.",
+   "address": "70 Victoria Road, Sea Point",
+   "opens_at": "12:00",
+   "closes_at": "23:00",
+   "price_level": 2,
+   "review_count": null,
+   "min_order_cents": 7500,
+   "tags": [
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1066",
+   "name": "Umhlanga Peri Peri House",
+   "cuisines": [
+    "Portuguese",
+    "Grill"
+   ],
+   "rating": 3.4,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 40,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 14.0,
+   "neighbourhood": "Sea Point",
+   "description": "Flame-grilled chicken basted in our own peri-peri, from mild to melt-your-face hot.",
+   "address": "78 Florida Road, Sea Point",
+   "opens_at": "08:00",
+   "closes_at": "22:00",
+   "price_level": 2,
+   "review_count": 509,
+   "min_order_cents": 0,
+   "tags": [
+    "Gluten-free options",
+    "Late night",
+    "Great for groups"
+   ]
+  },
+  {
+   "id": "r-1067",
+   "name": "Menlyn Wing Factory",
+   "cuisines": [
+    "Chicken",
+    "American"
+   ],
+   "rating": 4.1,
+   "delivery_fee_cents": 2500,
+   "eta_minutes": 19,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1426869981800-95ebf51ce900?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 1.5,
+   "neighbourhood": "Green Point",
+   "description": "Wings, strips and sandwiches in every heat level, plus all the sides.",
+   "address": "5 Victoria Road, Green Point",
+   "opens_at": "07:00",
+   "closes_at": "22:00",
+   "price_level": 2,
+   "review_count": 2366,
+   "min_order_cents": 7500,
+   "tags": [
+    "Late night"
+   ]
+  },
+  {
+   "id": "r-1068",
+   "name": "Parktown Meze",
+   "cuisines": [
+    "Mediterranean",
+    "Middle Eastern"
+   ],
+   "rating": 3.5,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 30,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1523986371872-9d3ba2e2a389?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 8.5,
+   "neighbourhood": "Bryanston",
+   "description": "Sharing plates, charcoal-grilled meats and warm pita from the oven.",
+   "address": "102 Vilakazi Street, Bryanston",
+   "opens_at": "12:00",
+   "closes_at": "22:00",
+   "price_level": 1,
+   "review_count": 706,
+   "min_order_cents": 0,
+   "tags": [
+    "Gluten-free options",
+    "Healthy",
+    "Vegetarian friendly"
+   ]
+  },
+  {
+   "id": "r-1069",
+   "name": "Hout Bay Patty Co.",
+   "cuisines": [
+    "Burgers",
+    "Grill"
+   ],
+   "rating": null,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 31,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1572802419224-296b0aeee0d9?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 15.7,
+   "neighbourhood": null,
+   "description": "Smashed-to-order patties, toasted buns and sauces made in-house every morning.",
+   "address": "46 Dorp Street, Sandton",
+   "opens_at": "10:00",
+   "closes_at": "23:30",
+   "price_level": 3,
+   "review_count": 1856,
+   "min_order_cents": 15000,
+   "tags": [
+    "Family favourite"
+   ]
+  },
+  {
+   "id": "r-1070",
+   "name": "Newlands Oyster Bar",
+   "cuisines": [
+    "Seafood",
+    "Sushi"
+   ],
+   "rating": 4.0,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 19,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1651323018466-b36b7df1d2b1?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 12.7,
+   "neighbourhood": "Woodstock",
+   "description": "Line-caught fish, plump prawns and sweet calamari, cooked simply and served fast.",
+   "address": "95 Vilakazi Street, Woodstock",
+   "opens_at": "07:00",
+   "closes_at": "20:00",
+   "price_level": 2,
+   "review_count": 2094,
+   "min_order_cents": 7500,
+   "tags": [
+    "Great for groups",
+    "Halaal"
+   ]
+  },
+  {
+   "id": "r-1071",
+   "name": "Maboneng Seoul Kitchen",
+   "cuisines": [
+    "Korean"
+   ],
+   "rating": 4.5,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 35,
+   "image_url": "https://images.unsplash.com/photo-1498654896293-37aacf113fd9?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 12.3,
+   "neighbourhood": "Fourways",
+   "description": "Sizzling Korean BBQ, bubbling stews and crunchy fried chicken.",
+   "address": "116 Bree Street, Fourways",
+   "opens_at": "09:00",
+   "closes_at": "20:00",
+   "price_level": 2,
+   "review_count": 724,
+   "min_order_cents": null,
+   "tags": []
+  },
+  {
+   "id": "r-1072",
+   "name": "Morningside Cantina",
+   "cuisines": [
+    "Mexican"
+   ],
+   "rating": 4.1,
+   "delivery_fee_cents": 2900,
+   "eta_minutes": 41,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1648437595587-e6a8b0cdf1f9?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 11.3,
+   "neighbourhood": "Parktown",
+   "description": "Tacos, burritos and sizzling fajitas with tortillas pressed fresh every day.",
+   "address": "203 Regent Road, Parktown",
+   "opens_at": "07:00",
+   "closes_at": "22:00",
+   "price_level": 1,
+   "review_count": 1601,
+   "min_order_cents": 5000,
+   "tags": [
+    "Vegan options",
+    "Healthy",
+    "Late night"
+   ]
+  },
+  {
+   "id": "r-1073",
+   "name": "Menlyn Peri Peri House",
+   "cuisines": [
+    "Portuguese"
+   ],
+   "rating": null,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 37,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1426869981800-95ebf51ce900?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 16.0,
+   "neighbourhood": "Camps Bay",
+   "description": "Portuguese-inspired grill with crispy chips, spicy sauces and custard tarts.",
+   "address": "34 Kloof Street, Camps Bay",
+   "opens_at": "09:00",
+   "closes_at": "23:30",
+   "price_level": 2,
+   "review_count": 1363,
+   "min_order_cents": 0,
+   "tags": [
+    "Healthy"
+   ]
+  },
+  {
+   "id": "r-1074",
+   "name": "Newlands Slice Co.",
+   "cuisines": [
+    "Pizza",
+    "Pasta"
+   ],
+   "rating": 3.2,
+   "delivery_fee_cents": 3500,
+   "eta_minutes": 27,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 16.3,
+   "neighbourhood": "Gardens",
+   "description": "Slow-proved dough, San Marzano tomatoes and a roaring wood-fired oven.",
+   "address": "76 Bree Street, Gardens",
+   "opens_at": "11:00",
+   "closes_at": "23:30",
+   "price_level": 3,
+   "review_count": 2174,
+   "min_order_cents": 0,
+   "tags": [
+    "Vegan options",
+    "Family favourite"
+   ]
+  },
+  {
+   "id": "r-1075",
+   "name": "Braamfontein Fish Market",
+   "cuisines": [
+    "Seafood",
+    "Sushi"
+   ],
+   "rating": 3.5,
+   "delivery_fee_cents": 2500,
+   "eta_minutes": 58,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1571167366136-b57e07761625?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 15.1,
+   "neighbourhood": "Bryanston",
+   "description": "Coastal kitchen with the day's catch, cold drinks and a sea breeze on the menu.",
+   "address": "193 Victoria Road, Bryanston",
+   "opens_at": "08:00",
+   "closes_at": "23:30",
+   "price_level": 1,
+   "review_count": 1939,
+   "min_order_cents": 0,
+   "tags": [
+    "Vegan options",
+    "Gluten-free options",
+    "Halaal"
+   ]
+  },
+  {
+   "id": "r-1076",
+   "name": "Claremont Brunch Spot",
+   "cuisines": [
+    "Cafe"
+   ],
+   "rating": 4.0,
+   "delivery_fee_cents": 2900,
+   "eta_minutes": 25,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1601759226606-1352c1290364?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 2.8,
+   "neighbourhood": "Hout Bay",
+   "description": "All-day breakfasts, good coffee and cabinet cakes that vanish by lunchtime.",
+   "address": "224 Rivonia Road, Hout Bay",
+   "opens_at": "07:00",
+   "closes_at": "23:00",
+   "price_level": 3,
+   "review_count": 2289,
+   "min_order_cents": 0,
+   "tags": [
+    "Spicy",
+    "Late night"
+   ]
+  },
+  {
+   "id": "r-1077",
+   "name": "Parktown Burger Joint",
+   "cuisines": [
+    "Burgers"
+   ],
+   "rating": 3.7,
+   "delivery_fee_cents": 3500,
+   "eta_minutes": 37,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 14.0,
+   "neighbourhood": "Stellenbosch",
+   "description": "Big, messy, unapologetic burgers with loaded fries and thick shakes on the side.",
+   "address": "129 Loop Street, Stellenbosch",
+   "opens_at": "08:00",
+   "closes_at": "23:00",
+   "price_level": null,
+   "review_count": 1553,
+   "min_order_cents": 0,
+   "tags": [
+    "Vegan options",
+    "Spicy",
+    "Vegetarian friendly"
+   ]
+  },
+  {
+   "id": "r-1078",
+   "name": "Gardens Grill",
+   "cuisines": [
+    "Steakhouse"
+   ],
+   "rating": 4.3,
+   "delivery_fee_cents": 1900,
+   "eta_minutes": 45,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 9.9,
+   "neighbourhood": "Sea Point",
+   "description": "A neighbourhood steakhouse built around the fire: proper cuts, honest sides, generous portions.",
+   "address": "115 Main Road, Sea Point",
+   "opens_at": "07:00",
+   "closes_at": "20:00",
+   "price_level": 2,
+   "review_count": 630,
+   "min_order_cents": 10000,
+   "tags": [
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1079",
+   "name": "Sandton Olive Tree",
+   "cuisines": [
+    "Mediterranean",
+    "Greek"
+   ],
+   "rating": 3.3,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 46,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1653611540493-b3a896319fbf?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 9.8,
+   "neighbourhood": "Camps Bay",
+   "description": "Sharing plates, charcoal-grilled meats and warm pita from the oven.",
+   "address": "184 Jan Smuts Avenue, Camps Bay",
+   "opens_at": "09:00",
+   "closes_at": "23:00",
+   "price_level": 1,
+   "review_count": 1463,
+   "min_order_cents": 0,
+   "tags": [
+    "Comfort food",
+    "Gluten-free options"
+   ]
+  },
+  {
+   "id": "r-1080",
+   "name": "Durban North Souk",
+   "cuisines": [
+    "Mediterranean",
+    "Middle Eastern"
+   ],
+   "rating": 3.3,
+   "delivery_fee_cents": 3500,
+   "eta_minutes": null,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1672636402078-4b957a572e4e?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 4.2,
+   "neighbourhood": "Observatory",
+   "description": "Sun-soaked Mediterranean cooking built on olive oil, lemon and fresh herbs.",
+   "address": "192 Main Road, Observatory",
+   "opens_at": "09:00",
+   "closes_at": "20:00",
+   "price_level": 2,
+   "review_count": null,
+   "min_order_cents": 10000,
+   "tags": [
+    "Late night",
+    "Comfort food",
+    "Halaal"
+   ]
+  },
+  {
+   "id": "r-1081",
+   "name": "Rosebank Fish Market",
+   "cuisines": [
+    "Seafood",
+    "Grill"
+   ],
+   "rating": 4.6,
+   "delivery_fee_cents": 3500,
+   "eta_minutes": 55,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1615141982883-c7ad0e69fd62?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 10.7,
+   "neighbourhood": "Morningside",
+   "description": "Coastal kitchen with the day's catch, cold drinks and a sea breeze on the menu.",
+   "address": "10 Vilakazi Street, Morningside",
+   "opens_at": "08:00",
+   "closes_at": "20:00",
+   "price_level": 3,
+   "review_count": 189,
+   "min_order_cents": 5000
+  },
+  {
+   "id": "r-1082",
+   "name": "Green Point Green Table",
+   "cuisines": [
+    "Vegan",
+    "Healthy"
+   ],
+   "rating": 3.7,
+   "delivery_fee_cents": 2500,
+   "eta_minutes": 32,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1606757819934-d61a9f7279d5?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 0.8,
+   "neighbourhood": "Newlands",
+   "description": "Colourful bowls, hearty mains and sweet treats, all made without animal products.",
+   "address": "191 Victoria Road, Newlands",
+   "opens_at": "10:00",
+   "closes_at": "22:00",
+   "price_level": 4,
+   "review_count": 2050,
+   "min_order_cents": 15000,
+   "tags": [
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1083",
+   "name": "Woodstock Fried Chicken Co.",
+   "cuisines": [
+    "Chicken",
+    "Burgers"
+   ],
+   "rating": 4.4,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 49,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1730900737724-5b752e1ed3dd?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 10.9,
+   "neighbourhood": "Bryanston",
+   "description": "Wings, strips and sandwiches in every heat level, plus all the sides.",
+   "address": "170 Vilakazi Street, Bryanston",
+   "opens_at": "09:00",
+   "closes_at": "23:00",
+   "price_level": 2,
+   "review_count": null,
+   "min_order_cents": 0,
+   "tags": []
+  },
+  {
+   "id": "r-1084",
+   "name": "Woodstock Kimchi House",
+   "cuisines": [
+    "Korean",
+    "Grill"
+   ],
+   "rating": 4.2,
+   "delivery_fee_cents": 2900,
+   "eta_minutes": 38,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1612179343574-31b219a3915c?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 12.4,
+   "neighbourhood": "Camps Bay",
+   "description": "Sizzling Korean BBQ, bubbling stews and crunchy fried chicken.",
+   "address": "8 Jan Smuts Avenue, Camps Bay",
+   "opens_at": "11:00",
+   "closes_at": "23:00",
+   "price_level": 1,
+   "review_count": 293,
+   "min_order_cents": null,
+   "tags": [
+    "Great for groups",
+    "Halaal"
+   ]
+  },
+  {
+   "id": "r-1085",
+   "name": "Woodstock Roastery",
+   "cuisines": [
+    "Cafe"
+   ],
+   "rating": 3.3,
+   "delivery_fee_cents": null,
+   "eta_minutes": 43,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1612888327680-affb9c271a61?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 1.6,
+   "neighbourhood": "Woodstock",
+   "description": "A sunny corner cafe: slow brunches, small-batch roasts and fresh bakes.",
+   "address": "102 Regent Road, Woodstock",
+   "opens_at": "12:00",
+   "closes_at": "22:00",
+   "price_level": 1,
+   "review_count": 482,
+   "min_order_cents": 0,
+   "tags": [
+    "Gluten-free options"
+   ]
+  },
+  {
+   "id": "r-1086",
+   "name": "Constantia Dragon Kitchen",
+   "cuisines": [
+    "Chinese",
+    "Asian"
+   ],
+   "rating": 3.6,
+   "delivery_fee_cents": 1900,
+   "eta_minutes": 59,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 11.7,
+   "neighbourhood": "Braamfontein",
+   "description": "Wok-fired classics, hand-folded dumplings and generous family-style portions.",
+   "address": "35 Kloof Street, Braamfontein",
+   "opens_at": "10:00",
+   "closes_at": "21:00",
+   "price_level": 3,
+   "review_count": 1841,
+   "min_order_cents": 0,
+   "tags": [
+    "Gluten-free options",
+    "Family favourite"
+   ]
+  },
+  {
+   "id": "r-1087",
+   "name": "Claremont Oyster Bar",
+   "cuisines": [
+    "Seafood",
+    "Grill"
+   ],
+   "rating": 4.7,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 29,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1571167366136-b57e07761625?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 5.0,
+   "neighbourhood": "Woodstock",
+   "description": "Line-caught fish, plump prawns and sweet calamari, cooked simply and served fast.",
+   "address": "61 Dorp Street, Woodstock",
+   "opens_at": "07:00",
+   "closes_at": "22:00",
+   "price_level": 2,
+   "review_count": 1529,
+   "min_order_cents": 7500,
+   "tags": [
+    "Top rated",
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1088",
+   "name": "Braamfontein Tandoor",
+   "cuisines": [
+    "Indian",
+    "Vegetarian"
+   ],
+   "rating": 4.9,
+   "delivery_fee_cents": 0,
+   "eta_minutes": null,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1631292784640-2b24be784d5d?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 13.1,
+   "neighbourhood": "Bryanston",
+   "description": "Family recipes from across India with fresh spices ground in-house.",
+   "address": "120 Loop Street, Bryanston",
+   "opens_at": "08:00",
+   "closes_at": "23:30",
+   "price_level": 2,
+   "review_count": 763,
+   "min_order_cents": 0,
+   "tags": [
+    "Top rated",
+    "Late night",
+    "Spicy"
+   ]
+  },
+  {
+   "id": "r-1011",
+   "name": "Duplicate Of r-1011 (should be ignored)",
+   "cuisines": [
+    "Seafood"
+   ],
+   "rating": 3.3,
+   "delivery_fee_cents": 3500,
+   "eta_minutes": 28,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1571167366136-b57e07761625?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 6.5,
+   "neighbourhood": "Claremont",
+   "description": "Coastal kitchen with the day's catch, cold drinks and a sea breeze on the menu.",
+   "address": "63 Dorp Street, Claremont",
+   "opens_at": null,
+   "closes_at": null,
+   "price_level": 1,
+   "review_count": null,
+   "min_order_cents": 5000,
+   "tags": [
+    "Great for groups"
+   ]
+  },
+  {
+   "id": "r-1089",
+   "name": "Hout Bay Meze",
+   "cuisines": [
+    "Mediterranean"
+   ],
+   "rating": 4.1,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 37,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1653611540493-b3a896319fbf?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 7.7,
+   "neighbourhood": "Gardens",
+   "description": "Sun-soaked Mediterranean cooking built on olive oil, lemon and fresh herbs.",
+   "address": "217 Kloof Street, Gardens",
+   "opens_at": "09:00",
+   "closes_at": "21:00",
+   "price_level": 2,
+   "review_count": 2274,
+   "min_order_cents": 5000,
+   "tags": [
+    "Vegan options",
+    "Comfort food"
+   ]
+  },
+  {
+   "id": "r-1090",
+   "name": "Newlands Curry House",
+   "cuisines": [
+    "Indian",
+    "Curry"
+   ],
+   "rating": 4.1,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 25,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 10.6,
+   "neighbourhood": "Maboneng",
+   "description": "Family recipes from across India with fresh spices ground in-house.",
+   "address": "216 Long Street, Maboneng",
+   "opens_at": "07:00",
+   "closes_at": "20:00",
+   "price_level": 1,
+   "review_count": 2380,
+   "min_order_cents": 5000,
+   "tags": [
+    "Comfort food"
+   ]
+  },
+  {
+   "id": "r-1091",
+   "name": "Maboneng Bangkok Street",
+   "cuisines": [
+    "Thai",
+    "Asian"
+   ],
+   "rating": 4.0,
+   "delivery_fee_cents": 2900,
+   "eta_minutes": 34,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1568882041008-c0954e91caba?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 8.1,
+   "neighbourhood": "Stellenbosch",
+   "description": "Bright, balanced Thai flavours: sweet, sour, salty and hot in every bite.",
+   "address": "113 Beach Road, Stellenbosch",
+   "opens_at": "10:00",
+   "closes_at": "23:00",
+   "price_level": 1,
+   "review_count": 606,
+   "min_order_cents": 5000,
+   "tags": [
+    "Great for groups",
+    "Comfort food",
+    "Gluten-free options"
+   ]
+  },
+  {
+   "id": "r-1092",
+   "name": "Menlyn Oyster Bar",
+   "cuisines": [
+    "Seafood"
+   ],
+   "rating": 3.4,
+   "delivery_fee_cents": 2500,
+   "eta_minutes": 30,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1672636401225-ec3d4025a4af?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 5.1,
+   "neighbourhood": "Sandton",
+   "description": "Line-caught fish, plump prawns and sweet calamari, cooked simply and served fast.",
+   "address": "37 Bree Street, Sandton",
+   "opens_at": "07:00",
+   "closes_at": "22:00",
+   "price_level": 4,
+   "review_count": 1730,
+   "min_order_cents": 0,
+   "tags": [
+    "Late night",
+    "Comfort food"
+   ]
+  },
+  {
+   "id": "r-1093",
+   "name": "Gardens Dragon Kitchen",
+   "cuisines": [
+    "Chinese",
+    "Asian"
+   ],
+   "rating": 4.5,
+   "delivery_fee_cents": 1900,
+   "eta_minutes": 46,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1523905330026-b8bd1f5f320e?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 12.4,
+   "neighbourhood": "Constantia",
+   "description": "Fast, fiery and fragrant: proper wok hei from a very hot kitchen.",
+   "address": "62 Florida Road, Constantia",
+   "opens_at": "11:00",
+   "closes_at": "22:00",
+   "price_level": null,
+   "review_count": 1170,
+   "min_order_cents": 7500,
+   "tags": [
+    "Late night",
+    "Gluten-free options"
+   ]
+  },
+  {
+   "id": "r-1094",
+   "name": "Parktown Fried Chicken Co.",
+   "cuisines": [
+    "Chicken",
+    "Burgers"
+   ],
+   "rating": 3.9,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 40,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1426869981800-95ebf51ce900?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 4.3,
+   "neighbourhood": "Woodstock",
+   "description": "Wings, strips and sandwiches in every heat level, plus all the sides.",
+   "address": "142 Vilakazi Street, Woodstock",
+   "opens_at": "07:00",
+   "closes_at": "23:00",
+   "price_level": 2,
+   "review_count": 2270,
+   "min_order_cents": 5000,
+   "tags": [
+    "Healthy",
+    "Spicy"
+   ]
+  },
+  {
+   "id": "r-1095",
+   "name": "Rosebank Burger Joint",
+   "cuisines": [
+    "Burgers",
+    "Grill"
+   ],
+   "rating": 4.1,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 40,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 8.8,
+   "neighbourhood": "Braamfontein",
+   "description": "Smashed-to-order patties, toasted buns and sauces made in-house every morning.",
+   "address": "183 Regent Road, Braamfontein",
+   "opens_at": "10:00",
+   "closes_at": "23:30",
+   "price_level": 2,
+   "review_count": 2129,
+   "min_order_cents": 0,
+   "tags": [
+    "Vegan options",
+    "Family favourite"
+   ]
+  },
+  {
+   "id": "r-1096",
+   "name": "Braamfontein Oyster Bar",
+   "cuisines": [
+    "Seafood",
+    "Grill"
+   ],
+   "rating": 4.2,
+   "delivery_fee_cents": null,
+   "eta_minutes": 45,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1672636401225-ec3d4025a4af?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 1.7,
+   "neighbourhood": "Morningside",
+   "description": "Line-caught fish, plump prawns and sweet calamari, cooked simply and served fast.",
+   "address": "107 Vilakazi Street, Morningside",
+   "opens_at": "12:00",
+   "closes_at": "20:00",
+   "price_level": 2,
+   "review_count": 1105,
+   "min_order_cents": 15000,
+   "tags": [
+    "Late night",
+    "Comfort food",
+    "Gluten-free options"
+   ]
+  },
+  {
+   "id": "r-1097",
+   "name": "Menlyn Taqueria",
+   "cuisines": [
+    "Mexican",
+    "Tex-Mex"
+   ],
+   "rating": 4.1,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 27,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1599974579688-8dbdd335c77f?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 14.0,
+   "neighbourhood": "Sea Point",
+   "description": "Tacos, burritos and sizzling fajitas with tortillas pressed fresh every day.",
+   "address": "106 Florida Road, Sea Point",
+   "opens_at": "10:00",
+   "closes_at": "23:30",
+   "price_level": 3,
+   "review_count": 1949,
+   "min_order_cents": 15000,
+   "tags": [
+    "Spicy",
+    "Vegan options",
+    "Family favourite"
+   ]
+  },
+  {
+   "id": "r-1098",
+   "name": "Morningside Sushi Bar",
+   "cuisines": [
+    "Sushi",
+    "Asian"
+   ],
+   "rating": 4.9,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 44,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 3.7,
+   "neighbourhood": "Gardens",
+   "description": null,
+   "address": "174 Rivonia Road, Gardens",
+   "opens_at": "11:00",
+   "closes_at": "23:00",
+   "price_level": 1,
+   "review_count": 1027,
+   "min_order_cents": 5000,
+   "tags": [
+    "Top rated",
+    "Late night",
+    "Spicy"
+   ]
+  },
+  {
+   "id": "r-1099",
+   "name": "Stellenbosch Green Table",
+   "cuisines": [
+    "Vegan"
+   ],
+   "rating": 4.4,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 65,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1623489254660-db5b367881d9?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 17.9,
+   "neighbourhood": "Woodstock",
+   "description": null,
+   "address": "230 Church Street, Woodstock",
+   "opens_at": "09:00",
+   "closes_at": "21:00",
+   "price_level": 2,
+   "review_count": 1196,
+   "min_order_cents": 15000,
+   "tags": [
+    "Healthy",
+    "Gluten-free options",
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1100",
+   "name": "Woodstock Wood Fire Pizza",
+   "cuisines": [
+    "Pizza",
+    "Pasta"
+   ],
+   "rating": 3.6,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 54,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1593504049359-74330189a345?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 3.8,
+   "neighbourhood": "Rosebank",
+   "description": "Slow-proved dough, San Marzano tomatoes and a roaring wood-fired oven.",
+   "address": null,
+   "opens_at": "12:00",
+   "closes_at": "21:00",
+   "price_level": 1,
+   "review_count": 1710,
+   "min_order_cents": 5000,
+   "tags": [
+    "Great for groups",
+    "Late night",
+    "Comfort food"
+   ]
+  },
+  {
+   "id": "r-1101",
+   "name": "Sandton Fried Chicken Co.",
+   "cuisines": [
+    "Chicken"
+   ],
+   "rating": 3.2,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 63,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1730900737724-5b752e1ed3dd?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 14.0,
+   "neighbourhood": null,
+   "description": "Buttermilk-brined, twice-fried chicken with crunch you can hear.",
+   "address": "233 Kloof Street, Constantia",
+   "opens_at": "12:00",
+   "closes_at": "23:30",
+   "price_level": 1,
+   "review_count": 170,
+   "min_order_cents": 0,
+   "tags": [
+    "Vegan options",
+    "Spicy",
+    "Gluten-free options"
+   ]
+  },
+  {
+   "id": "r-1102",
+   "name": "Durban North Meze",
+   "cuisines": [
+    "Mediterranean"
+   ],
+   "rating": 3.9,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 34,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1542814880-7e62cf14b7c8?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 17.8,
+   "neighbourhood": "Sea Point",
+   "description": "Sun-soaked Mediterranean cooking built on olive oil, lemon and fresh herbs.",
+   "address": "73 Victoria Road, Sea Point",
+   "opens_at": null,
+   "closes_at": null,
+   "price_level": 2,
+   "review_count": 567,
+   "min_order_cents": 10000,
+   "tags": [
+    "Vegan options",
+    "Great for groups"
+   ]
+  },
+  {
+   "id": "r-1103",
+   "name": "Melville BBQ",
+   "cuisines": [
+    "Korean"
+   ],
+   "rating": 3.8,
+   "delivery_fee_cents": 2500,
+   "eta_minutes": 65,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1580651315530-69c8e0026377?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 5.1,
+   "neighbourhood": "Cape Town",
+   "description": "Sizzling Korean BBQ, bubbling stews and crunchy fried chicken.",
+   "address": "45 Church Street, Cape Town",
+   "opens_at": "10:00",
+   "closes_at": "23:30",
+   "price_level": 2,
+   "review_count": 1659,
+   "min_order_cents": 15000,
+   "tags": [
+    "Great for groups",
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1104",
+   "name": "Durban North Burger Joint",
+   "cuisines": [
+    "Burgers",
+    "American"
+   ],
+   "rating": 3.2,
+   "delivery_fee_cents": 2500,
+   "eta_minutes": 34,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 3.5,
+   "neighbourhood": "Melville",
+   "description": "Big, messy, unapologetic burgers with loaded fries and thick shakes on the side.",
+   "address": "168 Loop Street, Melville",
+   "opens_at": "12:00",
+   "closes_at": "21:00",
+   "price_level": 1,
+   "review_count": 502,
+   "min_order_cents": 7500,
+   "tags": [
+    "Family favourite",
+    "Gluten-free options"
+   ]
+  },
+  {
+   "id": "r-1105",
+   "name": "Durban North Green Table",
+   "cuisines": [
+    "Vegan",
+    "Vegetarian"
+   ],
+   "rating": 4.4,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 45,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1623489254660-db5b367881d9?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 12.1,
+   "neighbourhood": "Stellenbosch",
+   "description": "Colourful bowls, hearty mains and sweet treats, all made without animal products.",
+   "address": "107 Dorp Street, Stellenbosch",
+   "opens_at": "11:00",
+   "closes_at": "21:00",
+   "price_level": 3,
+   "review_count": 353,
+   "min_order_cents": 10000,
+   "tags": [
+    "Healthy",
+    "Family favourite",
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1106",
+   "name": "Hout Bay Seoul Kitchen",
+   "cuisines": [
+    "Korean",
+    "Asian"
+   ],
+   "rating": 3.3,
+   "delivery_fee_cents": 2500,
+   "eta_minutes": 48,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1498654896293-37aacf113fd9?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 15.9,
+   "neighbourhood": "Durban North",
+   "description": "Bold, fermented, fiery flavours with banchan to share.",
+   "address": "24 Victoria Road, Durban North",
+   "opens_at": "07:00",
+   "closes_at": "23:00",
+   "price_level": 1,
+   "review_count": 1719,
+   "min_order_cents": 7500,
+   "tags": [
+    "Late night",
+    "Family favourite",
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1107",
+   "name": "Green Point Sushi Co.",
+   "cuisines": [
+    "Sushi",
+    "Asian"
+   ],
+   "rating": 4.4,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 52,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1617196034796-73dfa7b1fd56?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 9.0,
+   "neighbourhood": "Menlyn",
+   "description": "Hand-rolled sushi and sashimi made to order with fresh fish delivered daily.",
+   "address": "139 Long Street, Menlyn",
+   "opens_at": "07:00",
+   "closes_at": "23:00",
+   "price_level": 1,
+   "review_count": 1692,
+   "min_order_cents": 0,
+   "tags": [
+    "Great for groups",
+    "Halaal"
+   ]
+  },
+  {
+   "id": "r-1108",
+   "name": "Newlands Spice Route",
+   "cuisines": [
+    "Indian",
+    "Vegetarian"
+   ],
+   "rating": 3.8,
+   "delivery_fee_cents": 0,
+   "eta_minutes": null,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 14.9,
+   "neighbourhood": "Observatory",
+   "description": "Aromatic curries simmered for hours and breads straight from the tandoor.",
+   "address": "168 Loop Street, Observatory",
+   "opens_at": "07:00",
+   "closes_at": "21:00",
+   "price_level": 4,
+   "review_count": 1627,
+   "min_order_cents": 10000,
+   "tags": [
+    "Gluten-free options",
+    "Spicy"
+   ]
+  },
+  {
+   "id": "r-1109",
+   "name": "Menlyn Tandoor",
+   "cuisines": [
+    "Indian"
+   ],
+   "rating": 4.5,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 39,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 16.7,
+   "neighbourhood": "Bryanston",
+   "description": "Family recipes from across India with fresh spices ground in-house.",
+   "address": "40 Rivonia Road, Bryanston",
+   "opens_at": "08:00",
+   "closes_at": "20:00",
+   "price_level": 1,
+   "review_count": 1735,
+   "min_order_cents": 10000,
+   "tags": [
+    "Gluten-free options",
+    "Late night"
+   ]
+  },
+  {
+   "id": "r-1110",
+   "name": "Stellenbosch Steakhouse",
+   "cuisines": [
+    "Steakhouse",
+    "Grill"
+   ],
+   "rating": 4.0,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 40,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1600891964092-4316c288032e?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 13.6,
+   "neighbourhood": "Stellenbosch",
+   "description": "Flame-grilled steaks aged for 28 days, served with hand-cut chips and house-made sauces.",
+   "address": "36 Vilakazi Street, Stellenbosch",
+   "opens_at": "08:00",
+   "closes_at": "23:30",
+   "price_level": 2,
+   "review_count": 1331,
+   "min_order_cents": 0,
+   "tags": []
+  },
+  {
+   "id": "r-1111",
+   "name": "Rosebank Leaf & Bean",
+   "cuisines": [
+    "Vegan",
+    "Vegetarian"
+   ],
+   "rating": 3.7,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 55,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1623489254660-db5b367881d9?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 13.4,
+   "neighbourhood": "Green Point",
+   "description": "100% plant-based comfort food that doesn't feel like a compromise.",
+   "address": "89 Church Street, Green Point",
+   "opens_at": "11:00",
+   "closes_at": "22:00",
+   "price_level": 3,
+   "review_count": 1690,
+   "min_order_cents": 0,
+   "tags": [
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1112",
+   "name": "Observatory Plant Kitchen",
+   "cuisines": [
+    "Vegan"
+   ],
+   "rating": 4.0,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 44,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1606757819934-d61a9f7279d5?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 4.7,
+   "neighbourhood": "Morningside",
+   "description": "Colourful bowls, hearty mains and sweet treats, all made without animal products.",
+   "address": "143 Jan Smuts Avenue, Morningside",
+   "opens_at": "10:00",
+   "closes_at": "21:00",
+   "price_level": 2,
+   "review_count": 1370,
+   "min_order_cents": null,
+   "tags": [
+    "Great for groups",
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1113",
+   "name": "Fourways Wood Fire Pizza",
+   "cuisines": [
+    "Pizza",
+    "Italian"
+   ],
+   "rating": null,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 63,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 6.6,
+   "neighbourhood": "Camps Bay",
+   "description": "Slow-proved dough, San Marzano tomatoes and a roaring wood-fired oven.",
+   "address": "123 Florida Road, Camps Bay",
+   "opens_at": "09:00",
+   "closes_at": "22:00",
+   "price_level": 4,
+   "review_count": 80,
+   "min_order_cents": 0,
+   "tags": [
+    "Comfort food",
+    "Halaal"
+   ]
+  },
+  {
+   "id": "r-1114",
+   "name": "Menlyn Thai Kitchen",
+   "cuisines": [
+    "Thai",
+    "Noodles"
+   ],
+   "rating": 4.8,
+   "delivery_fee_cents": 2500,
+   "eta_minutes": 64,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1552912470-ee2e96439539?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 5.2,
+   "neighbourhood": "Green Point",
+   "description": null,
+   "address": "79 Rivonia Road, Green Point",
+   "opens_at": "09:00",
+   "closes_at": "23:30",
+   "price_level": 3,
+   "review_count": 1926,
+   "min_order_cents": 0,
+   "tags": [
+    "Top rated",
+    "Family favourite",
+    "Spicy",
+    "Comfort food"
+   ]
+  },
+  {
+   "id": "r-1115",
+   "name": "Woodstock Wing Factory",
+   "cuisines": [
+    "Chicken",
+    "Burgers"
+   ],
+   "rating": 4.5,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 52,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1426869981800-95ebf51ce900?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 4.9,
+   "neighbourhood": "Melville",
+   "description": "Buttermilk-brined, twice-fried chicken with crunch you can hear.",
+   "address": "51 Regent Road, Melville",
+   "opens_at": "08:00",
+   "closes_at": "23:00",
+   "price_level": 2,
+   "review_count": 1024,
+   "min_order_cents": 7500,
+   "tags": []
+  },
+  {
+   "id": "r-1116",
+   "name": "Melville Oyster Bar",
+   "cuisines": [
+    "Seafood"
+   ],
+   "rating": 4.3,
+   "delivery_fee_cents": 2500,
+   "eta_minutes": 25,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1672636401225-ec3d4025a4af?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 9.7,
+   "neighbourhood": "Menlyn",
+   "description": "Line-caught fish, plump prawns and sweet calamari, cooked simply and served fast.",
+   "address": "235 Long Street, Menlyn",
+   "opens_at": "11:00",
+   "closes_at": "20:00",
+   "price_level": 3,
+   "review_count": 322,
+   "min_order_cents": 15000,
+   "tags": [
+    "Gluten-free options",
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1117",
+   "name": "Cape Town Sushi Co.",
+   "cuisines": [
+    "Sushi",
+    "Japanese"
+   ],
+   "rating": 3.3,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 44,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 3.0,
+   "neighbourhood": "Umhlanga",
+   "description": "Modern Japanese kitchen: crisp tempura, delicate rolls and generous platters for sharing.",
+   "address": "169 Dorp Street, Umhlanga",
+   "opens_at": "07:00",
+   "closes_at": "20:00",
+   "price_level": 2,
+   "review_count": 1702,
+   "min_order_cents": 0,
+   "tags": [
+    "Halaal"
+   ]
+  },
+  {
+   "id": "r-1118",
+   "name": "Hout Bay Braai House",
+   "cuisines": [
+    "Steakhouse",
+    "Burgers"
+   ],
+   "rating": 3.2,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 24,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1565299715199-866c917206bb?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 1.2,
+   "neighbourhood": "Sandton",
+   "description": "A neighbourhood steakhouse built around the fire: proper cuts, honest sides, generous portions.",
+   "address": null,
+   "opens_at": "09:00",
+   "closes_at": "23:00",
+   "price_level": 1,
+   "review_count": 1681,
+   "min_order_cents": 7500,
+   "tags": [
+    "Vegan options",
+    "Vegetarian friendly"
+   ]
+  },
+  {
+   "id": "r-1119",
+   "name": "Morningside Taqueria",
+   "cuisines": [
+    "Mexican",
+    "Tex-Mex"
+   ],
+   "rating": 4.3,
+   "delivery_fee_cents": null,
+   "eta_minutes": 39,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1683062332605-4e1209d75346?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 15.0,
+   "neighbourhood": "Camps Bay",
+   "description": "Tacos, burritos and sizzling fajitas with tortillas pressed fresh every day.",
+   "address": "180 Oxford Road, Camps Bay",
+   "opens_at": "07:00",
+   "closes_at": "23:00",
+   "price_level": 3,
+   "review_count": 1374,
+   "min_order_cents": 10000,
+   "tags": []
+  },
+  {
+   "id": "r-1120",
+   "name": "Hout Bay Burger Joint",
+   "cuisines": [
+    "Burgers",
+    "Grill"
+   ],
+   "rating": 3.7,
+   "delivery_fee_cents": 1900,
+   "eta_minutes": 49,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1607013251379-e6eecfffe234?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 15.5,
+   "neighbourhood": "Claremont",
+   "description": "Big, messy, unapologetic burgers with loaded fries and thick shakes on the side.",
+   "address": "5 Florida Road, Claremont",
+   "opens_at": "11:00",
+   "closes_at": "21:00",
+   "price_level": 3,
+   "review_count": 1649,
+   "min_order_cents": 0,
+   "tags": []
+  },
+  {
+   "id": "r-1121",
+   "name": "Durban North Leaf & Bean",
+   "cuisines": [
+    "Vegan",
+    "Vegetarian"
+   ],
+   "rating": 4.4,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 47,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1547496502-affa22d38842?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 3.8,
+   "neighbourhood": null,
+   "description": "100% plant-based comfort food that doesn't feel like a compromise.",
+   "address": "112 Chiappini Street, Morningside",
+   "opens_at": "07:00",
+   "closes_at": "22:00",
+   "price_level": 2,
+   "review_count": 1642,
+   "min_order_cents": 5000,
+   "tags": [
+    "Healthy",
+    "Spicy",
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1122",
+   "name": "Newlands Braai House",
+   "cuisines": [
+    "Steakhouse"
+   ],
+   "rating": 4.0,
+   "delivery_fee_cents": 2900,
+   "eta_minutes": 42,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1600891964092-4316c288032e?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 13.9,
+   "neighbourhood": "Green Point",
+   "description": "A neighbourhood steakhouse built around the fire: proper cuts, honest sides, generous portions.",
+   "address": null,
+   "opens_at": "08:00",
+   "closes_at": "20:00",
+   "price_level": 1,
+   "review_count": 649,
+   "min_order_cents": 7500,
+   "tags": [
+    "Healthy"
+   ]
+  },
+  {
+   "id": "r-1123",
+   "name": "Menlyn Curry House",
+   "cuisines": [
+    "Indian",
+    "Curry"
+   ],
+   "rating": 3.4,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 23,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1710091691780-c7eb0dc50cf8?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 6.0,
+   "neighbourhood": "Melville",
+   "description": "Family recipes from across India with fresh spices ground in-house.",
+   "address": "27 Main Road, Melville",
+   "opens_at": "07:00",
+   "closes_at": "22:00",
+   "price_level": 2,
+   "review_count": 1346,
+   "min_order_cents": 7500,
+   "tags": [
+    "Gluten-free options",
+    "Healthy"
+   ]
+  },
+  {
+   "id": "r-1124",
+   "name": "Parktown Chop House",
+   "cuisines": [
+    "Steakhouse",
+    "Grill"
+   ],
+   "rating": 4.4,
+   "delivery_fee_cents": 2900,
+   "eta_minutes": 25,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1565299715199-866c917206bb?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 13.2,
+   "neighbourhood": "Claremont",
+   "description": "A neighbourhood steakhouse built around the fire: proper cuts, honest sides, generous portions.",
+   "address": "38 Kloof Street, Claremont",
+   "opens_at": "08:00",
+   "closes_at": "23:00",
+   "price_level": 2,
+   "review_count": null,
+   "min_order_cents": 7500,
+   "tags": [
+    "Family favourite",
+    "Late night",
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1125",
+   "name": "Newlands Wood Fire Pizza",
+   "cuisines": [
+    "Pizza",
+    "Italian"
+   ],
+   "rating": 4.0,
+   "delivery_fee_cents": 2900,
+   "eta_minutes": 36,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 9.4,
+   "neighbourhood": "Cape Town",
+   "description": "Thin, blistered Neapolitan-style pizzas with simple, seriously good toppings.",
+   "address": "113 Regent Road, Cape Town",
+   "opens_at": "10:00",
+   "closes_at": "23:30",
+   "price_level": 1,
+   "review_count": 1331,
+   "min_order_cents": 10000,
+   "tags": [
+    "Great for groups"
+   ]
+  },
+  {
+   "id": "r-1126",
+   "name": "Constantia Bangkok Street",
+   "cuisines": [
+    "Thai",
+    "Noodles"
+   ],
+   "rating": 4.8,
+   "delivery_fee_cents": 2900,
+   "eta_minutes": 32,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1552912470-ee2e96439539?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 0.5,
+   "neighbourhood": "Gardens",
+   "description": "Bright, balanced Thai flavours: sweet, sour, salty and hot in every bite.",
+   "address": "239 Florida Road, Gardens",
+   "opens_at": "11:00",
+   "closes_at": "23:30",
+   "price_level": 1,
+   "review_count": 2271,
+   "min_order_cents": 0,
+   "tags": [
+    "Top rated",
+    "Gluten-free options",
+    "Family favourite"
+   ]
+  },
+  {
+   "id": "r-1127",
+   "name": "Morningside BBQ",
+   "cuisines": [
+    "Korean",
+    "Grill"
+   ],
+   "rating": 4.6,
+   "delivery_fee_cents": 3500,
+   "eta_minutes": null,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 8.2,
+   "neighbourhood": "Bryanston",
+   "description": "Sizzling Korean BBQ, bubbling stews and crunchy fried chicken.",
+   "address": "184 Beach Road, Bryanston",
+   "opens_at": "10:00",
+   "closes_at": "20:00",
+   "price_level": 2,
+   "review_count": 1980,
+   "min_order_cents": 10000,
+   "tags": []
+  },
+  {
+   "id": "r-1128",
+   "name": "Green Point Waffle House",
+   "cuisines": [
+    "Dessert"
+   ],
+   "rating": 4.7,
+   "delivery_fee_cents": null,
+   "eta_minutes": 53,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1558326567-98ae2405596b?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 16.4,
+   "neighbourhood": "Woodstock",
+   "description": "Waffles, gelato and baked-to-order treats for anyone with a sweet tooth.",
+   "address": "169 Loop Street, Woodstock",
+   "opens_at": "08:00",
+   "closes_at": "23:30",
+   "price_level": 1,
+   "review_count": 1654,
+   "min_order_cents": 5000,
+   "tags": [
+    "Top rated",
+    "Late night",
+    "Halaal"
+   ]
+  },
+  {
+   "id": "r-1129",
+   "name": "Sandton Meze",
+   "cuisines": [
+    "Mediterranean",
+    "Greek"
+   ],
+   "rating": 4.1,
+   "delivery_fee_cents": 2900,
+   "eta_minutes": 44,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1653611540493-b3a896319fbf?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 3.0,
+   "neighbourhood": "Woodstock",
+   "description": "Sharing plates, charcoal-grilled meats and warm pita from the oven.",
+   "address": "89 Main Road, Woodstock",
+   "opens_at": "10:00",
+   "closes_at": "20:00",
+   "price_level": 2,
+   "review_count": 369,
+   "min_order_cents": 0,
+   "tags": [
+    "Late night",
+    "Family favourite",
+    "Gluten-free options"
+   ]
+  },
+  {
+   "id": "r-1130",
+   "name": "Woodstock Curry House",
+   "cuisines": [
+    "Indian",
+    "Curry"
+   ],
+   "rating": 4.1,
+   "delivery_fee_cents": 3500,
+   "eta_minutes": 35,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1631292784640-2b24be784d5d?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 13.4,
+   "neighbourhood": "Fourways",
+   "description": "Aromatic curries simmered for hours and breads straight from the tandoor.",
+   "address": "6 Regent Road, Fourways",
+   "opens_at": "12:00",
+   "closes_at": "20:00",
+   "price_level": 3,
+   "review_count": 691,
+   "min_order_cents": 15000,
+   "tags": [
+    "Gluten-free options",
+    "Vegetarian friendly"
+   ]
+  },
+  {
+   "id": "r-1131",
+   "name": "Hout Bay Taqueria",
+   "cuisines": [
+    "Mexican",
+    "Grill"
+   ],
+   "rating": 4.2,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 26,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1683062332605-4e1209d75346?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 7.9,
+   "neighbourhood": "Newlands",
+   "description": "Tacos, burritos and sizzling fajitas with tortillas pressed fresh every day.",
+   "address": "189 Florida Road, Newlands",
+   "opens_at": "10:00",
+   "closes_at": "23:30",
+   "price_level": 2,
+   "review_count": 36,
+   "min_order_cents": 15000,
+   "tags": [
+    "Family favourite",
+    "Spicy"
+   ]
+  },
+  {
+   "id": "r-1132",
+   "name": "Umhlanga Bangkok Street",
+   "cuisines": [
+    "Thai"
+   ],
+   "rating": 4.6,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 49,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 2.3,
+   "neighbourhood": "Maboneng",
+   "description": "Street-food favourites and slow-cooked curries made with fresh herbs.",
+   "address": "30 Rivonia Road, Maboneng",
+   "opens_at": "12:00",
+   "closes_at": "23:00",
+   "price_level": 2,
+   "review_count": 1301,
+   "min_order_cents": 10000,
+   "tags": []
+  },
+  {
+   "id": "r-1133",
+   "name": "Braamfontein Sweet Tooth",
+   "cuisines": [
+    "Dessert",
+    "Ice Cream"
+   ],
+   "rating": 3.8,
+   "delivery_fee_cents": 1900,
+   "eta_minutes": 54,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1606890737304-57a1ca8a5b62?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 3.9,
+   "neighbourhood": "Claremont",
+   "description": "Small-batch ice cream, warm cookies and shakes thick enough to need a spoon.",
+   "address": "31 Chiappini Street, Claremont",
+   "opens_at": "09:00",
+   "closes_at": "20:00",
+   "price_level": 1,
+   "review_count": 597,
+   "min_order_cents": 10000,
+   "tags": [
+    "Comfort food",
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1134",
+   "name": "Bryanston Waffle House",
+   "cuisines": [
+    "Dessert",
+    "Ice Cream"
+   ],
+   "rating": 3.9,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 46,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1558326567-98ae2405596b?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 6.1,
+   "neighbourhood": "Green Point",
+   "description": "Small-batch ice cream, warm cookies and shakes thick enough to need a spoon.",
+   "address": null,
+   "opens_at": "09:00",
+   "closes_at": "20:00",
+   "price_level": 2,
+   "review_count": null,
+   "min_order_cents": 7500,
+   "tags": [
+    "Late night",
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1135",
+   "name": "Bryanston Fried Chicken Co.",
+   "cuisines": [
+    "Chicken",
+    "American"
+   ],
+   "rating": 4.0,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 65,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 10.5,
+   "neighbourhood": "Maboneng",
+   "description": "Wings, strips and sandwiches in every heat level, plus all the sides.",
+   "address": "58 Vilakazi Street, Maboneng",
+   "opens_at": "08:00",
+   "closes_at": "23:00",
+   "price_level": 2,
+   "review_count": 2046,
+   "min_order_cents": 10000,
+   "tags": []
+  },
+  {
+   "id": "r-1136",
+   "name": "Maboneng Burger Joint",
+   "cuisines": [
+    "Burgers",
+    "Grill"
+   ],
+   "rating": 4.1,
+   "delivery_fee_cents": 3500,
+   "eta_minutes": 49,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 0.7,
+   "neighbourhood": "Menlyn",
+   "description": "Smashed-to-order patties, toasted buns and sauces made in-house every morning.",
+   "address": "77 Long Street, Menlyn",
+   "opens_at": "10:00",
+   "closes_at": "22:00",
+   "price_level": 2,
+   "review_count": 374,
+   "min_order_cents": 7500,
+   "tags": []
+  },
+  {
+   "id": "r-1137",
+   "name": "Stellenbosch Burger Joint",
+   "cuisines": [
+    "Burgers"
+   ],
+   "rating": 4.2,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 65,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 12.2,
+   "neighbourhood": "Durban North",
+   "description": "Smashed-to-order patties, toasted buns and sauces made in-house every morning.",
+   "address": "146 Loop Street, Durban North",
+   "opens_at": "11:00",
+   "closes_at": "22:00",
+   "price_level": 2,
+   "review_count": 707,
+   "min_order_cents": 5000,
+   "tags": [
+    "Comfort food",
+    "Spicy"
+   ]
+  },
+  {
+   "id": "r-1138",
+   "name": "Parktown Leaf & Bean",
+   "cuisines": [
+    "Vegan",
+    "Healthy"
+   ],
+   "rating": 3.4,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 59,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1626711934535-9749ea30dba8?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 14.6,
+   "neighbourhood": "Newlands",
+   "description": "Colourful bowls, hearty mains and sweet treats, all made without animal products.",
+   "address": "213 Chiappini Street, Newlands",
+   "opens_at": "12:00",
+   "closes_at": "23:00",
+   "price_level": 2,
+   "review_count": 2383,
+   "min_order_cents": 15000,
+   "tags": [
+    "Halaal",
+    "Great for groups",
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1139",
+   "name": "Newlands Flame Grill",
+   "cuisines": [
+    "Portuguese",
+    "Chicken"
+   ],
+   "rating": 4.3,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 62,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1426869981800-95ebf51ce900?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 3.5,
+   "neighbourhood": "Observatory",
+   "description": "Portuguese-inspired grill with crispy chips, spicy sauces and custard tarts.",
+   "address": "117 Dorp Street, Observatory",
+   "opens_at": "09:00",
+   "closes_at": "23:30",
+   "price_level": 1,
+   "review_count": 399,
+   "min_order_cents": 15000,
+   "tags": []
+  },
+  {
+   "id": "r-1140",
+   "name": "Newlands Seoul Kitchen",
+   "cuisines": [
+    "Korean",
+    "Asian"
+   ],
+   "rating": 4.6,
+   "delivery_fee_cents": 3500,
+   "eta_minutes": 32,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1708388064278-707e85eaddc0?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 4.9,
+   "neighbourhood": null,
+   "description": "Sizzling Korean BBQ, bubbling stews and crunchy fried chicken.",
+   "address": "145 Dorp Street, Umhlanga",
+   "opens_at": "09:00",
+   "closes_at": "20:00",
+   "price_level": 1,
+   "review_count": 1900,
+   "min_order_cents": 0,
+   "tags": [
+    "Family favourite",
+    "Spicy"
+   ]
+  },
+  {
+   "id": "r-1141",
+   "name": "Durban North Burger Bar",
+   "cuisines": [
+    "Burgers",
+    "Grill"
+   ],
+   "rating": 3.5,
+   "delivery_fee_cents": 1900,
+   "eta_minutes": 20,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1572802419224-296b0aeee0d9?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 12.2,
+   "neighbourhood": "Durban North",
+   "description": "Big, messy, unapologetic burgers with loaded fries and thick shakes on the side.",
+   "address": "171 Oxford Road, Durban North",
+   "opens_at": "07:00",
+   "closes_at": "23:00",
+   "price_level": 2,
+   "review_count": null,
+   "min_order_cents": 7500,
+   "tags": [
+    "Great for groups"
+   ]
+  },
+  {
+   "id": "r-1142",
+   "name": "Morningside Pizzeria",
+   "cuisines": [
+    "Pizza",
+    "Pasta"
+   ],
+   "rating": 3.3,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 59,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1593504049359-74330189a345?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 6.6,
+   "neighbourhood": "Cape Town",
+   "description": "Thin, blistered Neapolitan-style pizzas with simple, seriously good toppings.",
+   "address": "178 Jan Smuts Avenue, Cape Town",
+   "opens_at": "10:00",
+   "closes_at": "20:00",
+   "price_level": 1,
+   "review_count": 383,
+   "min_order_cents": 15000,
+   "tags": [
+    "Family favourite",
+    "Late night",
+    "Gluten-free options"
+   ]
+  },
+  {
+   "id": "r-1143",
+   "name": "Sandton Burger Bar",
+   "cuisines": [
+    "Burgers",
+    "Grill"
+   ],
+   "rating": 3.4,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 51,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 14.5,
+   "neighbourhood": "Camps Bay",
+   "description": "Big, messy, unapologetic burgers with loaded fries and thick shakes on the side.",
+   "address": "90 Florida Road, Camps Bay",
+   "opens_at": "12:00",
+   "closes_at": "21:00",
+   "price_level": 4,
+   "review_count": 1830,
+   "min_order_cents": 0,
+   "tags": [
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1144",
+   "name": "Sandton Pizzeria",
+   "cuisines": [
+    "Pizza"
+   ],
+   "rating": 4.2,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 30,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 11.1,
+   "neighbourhood": "Gardens",
+   "description": "Thin, blistered Neapolitan-style pizzas with simple, seriously good toppings.",
+   "address": "200 Main Road, Gardens",
+   "opens_at": "12:00",
+   "closes_at": "22:00",
+   "price_level": 1,
+   "review_count": 2105,
+   "min_order_cents": 0,
+   "tags": [
+    "Healthy",
+    "Spicy"
+   ]
+  },
+  {
+   "id": "r-1145",
+   "name": "Parktown Waffle House",
+   "cuisines": [
+    "Dessert",
+    "Bakery"
+   ],
+   "rating": 4.0,
+   "delivery_fee_cents": 3500,
+   "eta_minutes": 55,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1606890737304-57a1ca8a5b62?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 17.7,
+   "neighbourhood": "Stellenbosch",
+   "description": "Waffles, gelato and baked-to-order treats for anyone with a sweet tooth.",
+   "address": "93 Regent Road, Stellenbosch",
+   "opens_at": "08:00",
+   "closes_at": "23:00",
+   "price_level": 3,
+   "review_count": 2346,
+   "min_order_cents": 7500,
+   "tags": []
+  },
+  {
+   "id": "r-1146",
+   "name": "Green Point Brunch Spot",
+   "cuisines": [
+    "Cafe",
+    "Bakery"
+   ],
+   "rating": 4.8,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 15,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1601759226606-1352c1290364?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 3.7,
+   "neighbourhood": "Cape Town",
+   "description": "All-day breakfasts, good coffee and cabinet cakes that vanish by lunchtime.",
+   "address": "203 Church Street, Cape Town",
+   "opens_at": "11:00",
+   "closes_at": "22:00",
+   "price_level": 2,
+   "review_count": 2070,
+   "min_order_cents": 7500,
+   "tags": [
+    "Top rated"
+   ]
+  },
+  {
+   "id": "r-1147",
+   "name": "Camps Bay Souk",
+   "cuisines": [
+    "Mediterranean",
+    "Greek"
+   ],
+   "rating": 3.7,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 49,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1542814880-7e62cf14b7c8?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 3.2,
+   "neighbourhood": "Umhlanga",
+   "description": "Sharing plates, charcoal-grilled meats and warm pita from the oven.",
+   "address": "80 Beach Road, Umhlanga",
+   "opens_at": "12:00",
+   "closes_at": "21:00",
+   "price_level": 1,
+   "review_count": 371,
+   "min_order_cents": 7500,
+   "tags": [
+    "Vegetarian friendly",
+    "Late night"
+   ]
+  },
+  {
+   "id": "r-1148",
+   "name": "Braamfontein Burger Joint",
+   "cuisines": [
+    "Burgers",
+    "American"
+   ],
+   "rating": 3.4,
+   "delivery_fee_cents": 3500,
+   "eta_minutes": 37,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 3.1,
+   "neighbourhood": "Durban North",
+   "description": "Big, messy, unapologetic burgers with loaded fries and thick shakes on the side.",
+   "address": "43 Loop Street, Durban North",
+   "opens_at": "08:00",
+   "closes_at": "22:00",
+   "price_level": 3,
+   "review_count": 501,
+   "min_order_cents": 0,
+   "tags": [
+    "Halaal"
+   ]
+  },
+  {
+   "id": "r-1149",
+   "name": "Bryanston Oyster Bar",
+   "cuisines": [
+    "Seafood",
+    "Grill"
+   ],
+   "rating": 4.4,
+   "delivery_fee_cents": 2500,
+   "eta_minutes": 18,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1615141982883-c7ad0e69fd62?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 10.3,
+   "neighbourhood": "Hout Bay",
+   "description": "Coastal kitchen with the day's catch, cold drinks and a sea breeze on the menu.",
+   "address": "41 Rivonia Road, Hout Bay",
+   "opens_at": null,
+   "closes_at": null,
+   "price_level": 3,
+   "review_count": 490,
+   "min_order_cents": 0,
+   "tags": [
+    "Vegetarian friendly",
+    "Gluten-free options",
+    "Late night"
+   ]
+  },
+  {
+   "id": "r-1150",
+   "name": "Sea Point Grill",
+   "cuisines": [
+    "Steakhouse",
+    "Burgers"
+   ],
+   "rating": 3.8,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 60,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 10.2,
+   "neighbourhood": "Sea Point",
+   "description": "A neighbourhood steakhouse built around the fire: proper cuts, honest sides, generous portions.",
+   "address": "64 Beach Road, Sea Point",
+   "opens_at": "12:00",
+   "closes_at": "22:00",
+   "price_level": 2,
+   "review_count": 337,
+   "min_order_cents": null,
+   "tags": [
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1151",
+   "name": "Sandton Brunch Spot",
+   "cuisines": [
+    "Cafe",
+    "Breakfast"
+   ],
+   "rating": 3.5,
+   "delivery_fee_cents": 1900,
+   "eta_minutes": 64,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1601759226606-1352c1290364?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 11.1,
+   "neighbourhood": "Fourways",
+   "description": "A sunny corner cafe: slow brunches, small-batch roasts and fresh bakes.",
+   "address": "3 Loop Street, Fourways",
+   "opens_at": "08:00",
+   "closes_at": "22:00",
+   "price_level": 2,
+   "review_count": 1262,
+   "min_order_cents": 15000,
+   "tags": [
+    "Halaal",
+    "Spicy",
+    "Vegetarian friendly"
+   ]
+  },
+  {
+   "id": "r-1152",
+   "name": "Fourways Cantina",
+   "cuisines": [
+    "Mexican",
+    "Grill"
+   ],
+   "rating": 4.9,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 15,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 9.5,
+   "neighbourhood": "Stellenbosch",
+   "description": "Casual cantina energy: big flavours, zingy salsas and ice-cold drinks.",
+   "address": "163 Main Road, Stellenbosch",
+   "opens_at": "09:00",
+   "closes_at": "20:00",
+   "price_level": 3,
+   "review_count": 1559,
+   "min_order_cents": 15000,
+   "tags": [
+    "Top rated",
+    "Late night"
+   ]
+  },
+  {
+   "id": "r-1153",
+   "name": "Sandton Plant Kitchen",
+   "cuisines": [
+    "Vegan",
+    "Healthy"
+   ],
+   "rating": 3.9,
+   "delivery_fee_cents": 1900,
+   "eta_minutes": 20,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1623489254660-db5b367881d9?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 5.6,
+   "neighbourhood": "Rosebank",
+   "description": "Colourful bowls, hearty mains and sweet treats, all made without animal products.",
+   "address": "180 Loop Street, Rosebank",
+   "opens_at": "10:00",
+   "closes_at": "20:00",
+   "price_level": 2,
+   "review_count": 2088,
+   "min_order_cents": 0,
+   "tags": [
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1154",
+   "name": "Camps Bay Waffle House",
+   "cuisines": [
+    "Dessert",
+    "Ice Cream"
+   ],
+   "rating": 4.3,
+   "delivery_fee_cents": 1900,
+   "eta_minutes": 35,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1517427294546-5aa121f68e8a?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 8.1,
+   "neighbourhood": "Parktown",
+   "description": "Small-batch ice cream, warm cookies and shakes thick enough to need a spoon.",
+   "address": "82 Victoria Road, Parktown",
+   "opens_at": "09:00",
+   "closes_at": "21:00",
+   "price_level": 1,
+   "review_count": 848,
+   "min_order_cents": 0,
+   "tags": [
+    "Family favourite"
+   ]
+  },
+  {
+   "id": "r-1155",
+   "name": "Fourways Burger Bar",
+   "cuisines": [
+    "Burgers",
+    "Grill"
+   ],
+   "rating": 4.8,
+   "delivery_fee_cents": 3500,
+   "eta_minutes": 31,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 16.4,
+   "neighbourhood": "Parktown",
+   "description": "Big, messy, unapologetic burgers with loaded fries and thick shakes on the side.",
+   "address": "212 Long Street, Parktown",
+   "opens_at": "08:00",
+   "closes_at": "22:00",
+   "price_level": 1,
+   "review_count": 1034,
+   "min_order_cents": 5000,
+   "tags": [
+    "Top rated",
+    "Gluten-free options"
+   ]
+  },
+  {
+   "id": "r-1156",
+   "name": "Hout Bay Creamery",
+   "cuisines": [
+    "Dessert",
+    "Ice Cream"
+   ],
+   "rating": 4.6,
+   "delivery_fee_cents": 3500,
+   "eta_minutes": 50,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1551024601-bec78aea704b?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 5.2,
+   "neighbourhood": "Observatory",
+   "description": "Small-batch ice cream, warm cookies and shakes thick enough to need a spoon.",
+   "address": "27 Jan Smuts Avenue, Observatory",
+   "opens_at": "07:00",
+   "closes_at": "20:00",
+   "price_level": 1,
+   "review_count": 928,
+   "min_order_cents": 0,
+   "tags": [
+    "Halaal"
+   ]
+  },
+  {
+   "id": "r-1157",
+   "name": "Observatory Bangkok Street",
+   "cuisines": [
+    "Thai",
+    "Asian"
+   ],
+   "rating": 4.2,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 56,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1627308595186-e6bb36712645?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 5.3,
+   "neighbourhood": "Camps Bay",
+   "description": "Street-food favourites and slow-cooked curries made with fresh herbs.",
+   "address": "32 Long Street, Camps Bay",
+   "opens_at": "10:00",
+   "closes_at": "20:00",
+   "price_level": 1,
+   "review_count": 2368,
+   "min_order_cents": 7500,
+   "tags": [
+    "Vegetarian friendly",
+    "Halaal"
+   ]
+  },
+  {
+   "id": "r-1158",
+   "name": "Constantia Creamery",
+   "cuisines": [
+    "Dessert",
+    "Ice Cream"
+   ],
+   "rating": 3.5,
+   "delivery_fee_cents": 1900,
+   "eta_minutes": 43,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1558326567-98ae2405596b?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 3.7,
+   "neighbourhood": "Melville",
+   "description": "Waffles, gelato and baked-to-order treats for anyone with a sweet tooth.",
+   "address": "166 Vilakazi Street, Melville",
+   "opens_at": "10:00",
+   "closes_at": "23:00",
+   "price_level": 3,
+   "review_count": 1980,
+   "min_order_cents": 0,
+   "tags": [
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1159",
+   "name": "Melville Wood Fire Pizza",
+   "cuisines": [
+    "Pizza",
+    "Italian"
+   ],
+   "rating": 4.3,
+   "delivery_fee_cents": 2500,
+   "eta_minutes": 45,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1604382354936-07c5d9983bd3?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 0.8,
+   "neighbourhood": "Observatory",
+   "description": "Thin, blistered Neapolitan-style pizzas with simple, seriously good toppings.",
+   "address": "100 Rivonia Road, Observatory",
+   "opens_at": "08:00",
+   "closes_at": "20:00",
+   "price_level": 2,
+   "review_count": 915,
+   "min_order_cents": 0,
+   "tags": [
+    "Family favourite",
+    "Late night",
+    "Halaal"
+   ]
+  },
+  {
+   "id": "r-1160",
+   "name": "Sea Point Flame Grill",
+   "cuisines": [
+    "Portuguese",
+    "Chicken"
+   ],
+   "rating": 4.9,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 32,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1426869981800-95ebf51ce900?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 0.9,
+   "neighbourhood": "Stellenbosch",
+   "description": "Flame-grilled chicken basted in our own peri-peri, from mild to melt-your-face hot.",
+   "address": "196 Chiappini Street, Stellenbosch",
+   "opens_at": "11:00",
+   "closes_at": "23:00",
+   "price_level": 2,
+   "review_count": 729,
+   "min_order_cents": 0,
+   "tags": [
+    "Top rated"
+   ]
+  },
+  {
+   "id": "r-1161",
+   "name": "Maboneng Cantina",
+   "cuisines": [
+    "Mexican"
+   ],
+   "rating": 4.4,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 46,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1683062332605-4e1209d75346?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 3.0,
+   "neighbourhood": "Maboneng",
+   "description": "Tacos, burritos and sizzling fajitas with tortillas pressed fresh every day.",
+   "address": "24 Long Street, Maboneng",
+   "opens_at": "08:00",
+   "closes_at": "23:30",
+   "price_level": 1,
+   "review_count": 2174,
+   "min_order_cents": 7500,
+   "tags": [
+    "Halaal",
+    "Healthy",
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1162",
+   "name": "Gardens Steakhouse",
+   "cuisines": [
+    "Steakhouse"
+   ],
+   "rating": 3.8,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 24,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 4.9,
+   "neighbourhood": "Sea Point",
+   "description": "Flame-grilled steaks aged for 28 days, served with hand-cut chips and house-made sauces.",
+   "address": "217 Loop Street, Sea Point",
+   "opens_at": "07:00",
+   "closes_at": "22:00",
+   "price_level": 3,
+   "review_count": null,
+   "min_order_cents": 10000,
+   "tags": [
+    "Healthy"
+   ]
+  },
+  {
+   "id": "r-1163",
+   "name": "Gardens Burger Bar",
+   "cuisines": [
+    "Burgers",
+    "American"
+   ],
+   "rating": 4.4,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 59,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 2.5,
+   "neighbourhood": "Durban North",
+   "description": "Big, messy, unapologetic burgers with loaded fries and thick shakes on the side.",
+   "address": "58 Oxford Road, Durban North",
+   "opens_at": "10:00",
+   "closes_at": "22:00",
+   "price_level": 3,
+   "review_count": 1224,
+   "min_order_cents": null,
+   "tags": [
+    "Gluten-free options",
+    "Healthy"
+   ]
+  },
+  {
+   "id": "r-1164",
+   "name": "Menlyn Wok",
+   "cuisines": [
+    "Chinese"
+   ],
+   "rating": 4.8,
+   "delivery_fee_cents": 2500,
+   "eta_minutes": 54,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 9.7,
+   "neighbourhood": "Durban North",
+   "description": "Fast, fiery and fragrant: proper wok hei from a very hot kitchen.",
+   "address": "37 Regent Road, Durban North",
+   "opens_at": "12:00",
+   "closes_at": "20:00",
+   "price_level": null,
+   "review_count": 1326,
+   "min_order_cents": 0,
+   "tags": [
+    "Top rated",
+    "Comfort food",
+    "Halaal"
+   ]
+  },
+  {
+   "id": "r-1165",
+   "name": "Morningside Slice Co.",
+   "cuisines": [
+    "Pizza",
+    "Pasta"
+   ],
+   "rating": 4.0,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 37,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1604382354936-07c5d9983bd3?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 8.3,
+   "neighbourhood": "Morningside",
+   "description": "Slow-proved dough, San Marzano tomatoes and a roaring wood-fired oven.",
+   "address": "13 Church Street, Morningside",
+   "opens_at": "10:00",
+   "closes_at": "23:00",
+   "price_level": 4,
+   "review_count": 1713,
+   "min_order_cents": 7500,
+   "tags": [
+    "Family favourite",
+    "Comfort food"
+   ]
+  },
+  {
+   "id": "r-1166",
+   "name": "Woodstock Waffle House",
+   "cuisines": [
+    "Dessert",
+    "Ice Cream"
+   ],
+   "rating": 4.5,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 33,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1517427294546-5aa121f68e8a?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 7.5,
+   "neighbourhood": "Camps Bay",
+   "description": "Waffles, gelato and baked-to-order treats for anyone with a sweet tooth.",
+   "address": "19 Regent Road, Camps Bay",
+   "opens_at": "08:00",
+   "closes_at": "23:00",
+   "price_level": 1,
+   "review_count": 325,
+   "min_order_cents": 10000,
+   "tags": [
+    "Family favourite",
+    "Vegan options",
+    "Gluten-free options"
+   ]
+  },
+  {
+   "id": "r-1167",
+   "name": "Gardens Slice Co.",
+   "cuisines": [
+    "Pizza"
+   ],
+   "rating": 4.7,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 53,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 17.1,
+   "neighbourhood": "Bryanston",
+   "description": "Slow-proved dough, San Marzano tomatoes and a roaring wood-fired oven.",
+   "address": "85 Florida Road, Bryanston",
+   "opens_at": "08:00",
+   "closes_at": "23:00",
+   "price_level": 3,
+   "review_count": 2230,
+   "min_order_cents": 5000,
+   "tags": [
+    "Top rated"
+   ]
+  },
+  {
+   "id": "r-1168",
+   "name": "Parktown Plant Kitchen",
+   "cuisines": [
+    "Vegan",
+    "Vegetarian"
+   ],
+   "rating": 4.2,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 42,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1626711934535-9749ea30dba8?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 12.7,
+   "neighbourhood": "Woodstock",
+   "description": "Colourful bowls, hearty mains and sweet treats, all made without animal products.",
+   "address": "52 Bree Street, Woodstock",
+   "opens_at": "07:00",
+   "closes_at": "21:00",
+   "price_level": 1,
+   "review_count": 1213,
+   "min_order_cents": 0,
+   "tags": [
+    "Vegan options",
+    "Halaal"
+   ]
+  },
+  {
+   "id": "r-1169",
+   "name": "Sandton Wing Factory",
+   "cuisines": [
+    "Chicken"
+   ],
+   "rating": 4.0,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 38,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1426869981800-95ebf51ce900?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 0.9,
+   "neighbourhood": "Observatory",
+   "description": "Wings, strips and sandwiches in every heat level, plus all the sides.",
+   "address": "12 Rivonia Road, Observatory",
+   "opens_at": "10:00",
+   "closes_at": "23:00",
+   "price_level": 2,
+   "review_count": 1118,
+   "min_order_cents": 10000,
+   "tags": [
+    "Vegetarian friendly",
+    "Late night"
+   ]
+  },
+  {
+   "id": "r-1170",
+   "name": "Rosebank Maki House",
+   "cuisines": [
+    "Sushi",
+    "Japanese"
+   ],
+   "rating": 4.3,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 41,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 9.8,
+   "neighbourhood": "Observatory",
+   "description": "Modern Japanese kitchen: crisp tempura, delicate rolls and generous platters for sharing.",
+   "address": "147 Chiappini Street, Observatory",
+   "opens_at": "10:00",
+   "closes_at": "22:00",
+   "price_level": 1,
+   "review_count": 160,
+   "min_order_cents": 10000,
+   "tags": [
+    "Spicy",
+    "Family favourite",
+    "Halaal"
+   ]
+  },
+  {
+   "id": "r-1171",
+   "name": "Sandton Curry House",
+   "cuisines": [
+    "Indian",
+    "Curry"
+   ],
+   "rating": 4.9,
+   "delivery_fee_cents": 2900,
+   "eta_minutes": 20,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1710091691780-c7eb0dc50cf8?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 5.0,
+   "neighbourhood": "Sea Point",
+   "description": "Aromatic curries simmered for hours and breads straight from the tandoor.",
+   "address": null,
+   "opens_at": "09:00",
+   "closes_at": "20:00",
+   "price_level": null,
+   "review_count": 2296,
+   "min_order_cents": 7500,
+   "tags": [
+    "Top rated",
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1172",
+   "name": "Melville Catch of the Day",
+   "cuisines": [
+    "Seafood",
+    "Sushi"
+   ],
+   "rating": 4.5,
+   "delivery_fee_cents": 2900,
+   "eta_minutes": 24,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1672636401225-ec3d4025a4af?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 1.8,
+   "neighbourhood": "Sandton",
+   "description": "Line-caught fish, plump prawns and sweet calamari, cooked simply and served fast.",
+   "address": "237 Bree Street, Sandton",
+   "opens_at": "11:00",
+   "closes_at": "20:00",
+   "price_level": 3,
+   "review_count": 2211,
+   "min_order_cents": 5000,
+   "tags": [
+    "Comfort food",
+    "Late night",
+    "Spicy"
+   ]
+  },
+  {
+   "id": "r-1173",
+   "name": "Melville Olive Tree",
+   "cuisines": [
+    "Mediterranean",
+    "Middle Eastern"
+   ],
+   "rating": 3.3,
+   "delivery_fee_cents": 2900,
+   "eta_minutes": 17,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1523986371872-9d3ba2e2a389?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 5.8,
+   "neighbourhood": "Braamfontein",
+   "description": "Sharing plates, charcoal-grilled meats and warm pita from the oven.",
+   "address": "13 Dorp Street, Braamfontein",
+   "opens_at": "09:00",
+   "closes_at": "22:00",
+   "price_level": 1,
+   "review_count": 1259,
+   "min_order_cents": 5000,
+   "tags": [
+    "Spicy",
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1174",
+   "name": "Constantia Peri Peri House",
+   "cuisines": [
+    "Portuguese",
+    "Chicken"
+   ],
+   "rating": 3.4,
+   "delivery_fee_cents": 2900,
+   "eta_minutes": 53,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 1.5,
+   "neighbourhood": "Menlyn",
+   "description": "Flame-grilled chicken basted in our own peri-peri, from mild to melt-your-face hot.",
+   "address": "234 Beach Road, Menlyn",
+   "opens_at": "12:00",
+   "closes_at": "23:00",
+   "price_level": 3,
+   "review_count": 1549,
+   "min_order_cents": 0,
+   "tags": [
+    "Healthy",
+    "Great for groups"
+   ]
+  },
+  {
+   "id": "r-1175",
+   "name": "Camps Bay Dumpling House",
+   "cuisines": [
+    "Chinese",
+    "Noodles"
+   ],
+   "rating": 3.4,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 18,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 12.0,
+   "neighbourhood": "Umhlanga",
+   "description": "Fast, fiery and fragrant: proper wok hei from a very hot kitchen.",
+   "address": "181 Florida Road, Umhlanga",
+   "opens_at": "09:00",
+   "closes_at": "22:00",
+   "price_level": 3,
+   "review_count": null,
+   "min_order_cents": 7500,
+   "tags": [
+    "Comfort food",
+    "Halaal",
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1176",
+   "name": "Claremont Burger Joint",
+   "cuisines": [
+    "Burgers",
+    "Grill"
+   ],
+   "rating": 4.2,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 37,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 3.4,
+   "neighbourhood": "Maboneng",
+   "description": "Big, messy, unapologetic burgers with loaded fries and thick shakes on the side.",
+   "address": "192 Kloof Street, Maboneng",
+   "opens_at": "09:00",
+   "closes_at": "20:00",
+   "price_level": 2,
+   "review_count": 685,
+   "min_order_cents": 10000,
+   "tags": [
+    "Gluten-free options"
+   ]
+  },
+  {
+   "id": "r-1177",
+   "name": "Stellenbosch Lemongrass",
+   "cuisines": [
+    "Thai",
+    "Asian"
+   ],
+   "rating": 3.7,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 45,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1627308595186-e6bb36712645?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 11.9,
+   "neighbourhood": "Claremont",
+   "description": "Bright, balanced Thai flavours: sweet, sour, salty and hot in every bite.",
+   "address": "58 Rivonia Road, Claremont",
+   "opens_at": null,
+   "closes_at": null,
+   "price_level": 3,
+   "review_count": 1145,
+   "min_order_cents": 7500,
+   "tags": [
+    "Late night",
+    "Halaal"
+   ]
+  },
+  {
+   "id": "r-1178",
+   "name": "Woodstock Sweet Tooth",
+   "cuisines": [
+    "Dessert",
+    "Ice Cream"
+   ],
+   "rating": 3.7,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 57,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1517427294546-5aa121f68e8a?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 5.3,
+   "neighbourhood": "Cape Town",
+   "description": "Small-batch ice cream, warm cookies and shakes thick enough to need a spoon.",
+   "address": "77 Bree Street, Cape Town",
+   "opens_at": "10:00",
+   "closes_at": "20:00",
+   "price_level": 2,
+   "review_count": 1150,
+   "min_order_cents": 15000,
+   "tags": [
+    "Comfort food",
+    "Spicy",
+    "Vegetarian friendly"
+   ]
+  },
+  {
+   "id": "r-1179",
+   "name": "Umhlanga Fish Market",
+   "cuisines": [
+    "Seafood",
+    "Sushi"
+   ],
+   "rating": 4.7,
+   "delivery_fee_cents": null,
+   "eta_minutes": 56,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1571167366136-b57e07761625?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 13.2,
+   "neighbourhood": "Menlyn",
+   "description": "Coastal kitchen with the day's catch, cold drinks and a sea breeze on the menu.",
+   "address": "104 Church Street, Menlyn",
+   "opens_at": "12:00",
+   "closes_at": "20:00",
+   "price_level": 2,
+   "review_count": 2361,
+   "min_order_cents": 0,
+   "tags": [
+    "Top rated",
+    "Spicy",
+    "Healthy",
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1180",
+   "name": "Menlyn Catch of the Day",
+   "cuisines": [
+    "Seafood",
+    "Grill"
+   ],
+   "rating": 4.7,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 26,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1672636401225-ec3d4025a4af?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 11.7,
+   "neighbourhood": "Durban North",
+   "description": "Coastal kitchen with the day's catch, cold drinks and a sea breeze on the menu.",
+   "address": "186 Oxford Road, Durban North",
+   "opens_at": "12:00",
+   "closes_at": "22:00",
+   "price_level": 2,
+   "review_count": 928,
+   "min_order_cents": 5000,
+   "tags": [
+    "Top rated",
+    "Late night",
+    "Great for groups"
+   ]
+  },
+  {
+   "id": "r-1181",
+   "name": "Menlyn Cantina",
+   "cuisines": [
+    "Mexican",
+    "Grill"
+   ],
+   "rating": 3.8,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 55,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1599974579688-8dbdd335c77f?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 7.4,
+   "neighbourhood": "Constantia",
+   "description": "Tacos, burritos and sizzling fajitas with tortillas pressed fresh every day.",
+   "address": "121 Florida Road, Constantia",
+   "opens_at": "11:00",
+   "closes_at": "20:00",
+   "price_level": 3,
+   "review_count": 1581,
+   "min_order_cents": 10000,
+   "tags": [
+    "Great for groups",
+    "Gluten-free options",
+    "Vegetarian friendly"
+   ]
+  },
+  {
+   "id": "r-1182",
+   "name": "Bryanston Plant Kitchen",
+   "cuisines": [
+    "Vegan"
+   ],
+   "rating": 3.5,
+   "delivery_fee_cents": 3500,
+   "eta_minutes": 24,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1623428187969-5da2dcea5ebf?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 8.6,
+   "neighbourhood": "Bryanston",
+   "description": "100% plant-based comfort food that doesn't feel like a compromise.",
+   "address": "125 Regent Road, Bryanston",
+   "opens_at": "12:00",
+   "closes_at": "21:00",
+   "price_level": 2,
+   "review_count": 255,
+   "min_order_cents": 0,
+   "tags": [
+    "Healthy",
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1183",
+   "name": "Durban North Seoul Kitchen",
+   "cuisines": [
+    "Korean"
+   ],
+   "rating": 4.0,
+   "delivery_fee_cents": 2900,
+   "eta_minutes": 55,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1580651315530-69c8e0026377?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 7.4,
+   "neighbourhood": "Rosebank",
+   "description": null,
+   "address": "99 Main Road, Rosebank",
+   "opens_at": "07:00",
+   "closes_at": "23:30",
+   "price_level": 1,
+   "review_count": 1546,
+   "min_order_cents": 0,
+   "tags": []
+  },
+  {
+   "id": "r-1184",
+   "name": "Hout Bay Fish Market",
+   "cuisines": [
+    "Seafood",
+    "Sushi"
+   ],
+   "rating": null,
+   "delivery_fee_cents": 2500,
+   "eta_minutes": 34,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1672636401225-ec3d4025a4af?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 11.9,
+   "neighbourhood": "Morningside",
+   "description": "Coastal kitchen with the day's catch, cold drinks and a sea breeze on the menu.",
+   "address": "43 Kloof Street, Morningside",
+   "opens_at": "07:00",
+   "closes_at": "22:00",
+   "price_level": 4,
+   "review_count": 1885,
+   "min_order_cents": 15000,
+   "tags": [
+    "Family favourite"
+   ]
+  },
+  {
+   "id": "r-1185",
+   "name": "Rosebank Oyster Bar",
+   "cuisines": [
+    "Seafood"
+   ],
+   "rating": 4.0,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 29,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1615141982883-c7ad0e69fd62?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 14.7,
+   "neighbourhood": "Observatory",
+   "description": "Line-caught fish, plump prawns and sweet calamari, cooked simply and served fast.",
+   "address": "188 Main Road, Observatory",
+   "opens_at": "11:00",
+   "closes_at": "23:30",
+   "price_level": 1,
+   "review_count": 1519,
+   "min_order_cents": 15000,
+   "tags": [
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1186",
+   "name": "Observatory Maki House",
+   "cuisines": [
+    "Sushi",
+    "Japanese"
+   ],
+   "rating": 4.2,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 56,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1563612116625-3012372fccce?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 7.4,
+   "neighbourhood": "Claremont",
+   "description": "Hand-rolled sushi and sashimi made to order with fresh fish delivered daily.",
+   "address": "107 Victoria Road, Claremont",
+   "opens_at": "10:00",
+   "closes_at": "20:00",
+   "price_level": 2,
+   "review_count": 1961,
+   "min_order_cents": 15000,
+   "tags": []
+  },
+  {
+   "id": "r-1187",
+   "name": "Umhlanga Spice Route",
+   "cuisines": [
+    "Indian",
+    "Curry"
+   ],
+   "rating": null,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 32,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 9.2,
+   "neighbourhood": "Claremont",
+   "description": "Family recipes from across India with fresh spices ground in-house.",
+   "address": "213 Bree Street, Claremont",
+   "opens_at": "11:00",
+   "closes_at": "23:30",
+   "price_level": 1,
+   "review_count": null,
+   "min_order_cents": 0,
+   "tags": []
+  },
+  {
+   "id": "r-1188",
+   "name": "Umhlanga Fried Chicken Co.",
+   "cuisines": [
+    "Chicken",
+    "American"
+   ],
+   "rating": 4.6,
+   "delivery_fee_cents": 2900,
+   "eta_minutes": 33,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1730900737724-5b752e1ed3dd?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 2.6,
+   "neighbourhood": "Morningside",
+   "description": "Buttermilk-brined, twice-fried chicken with crunch you can hear.",
+   "address": "177 Dorp Street, Morningside",
+   "opens_at": "09:00",
+   "closes_at": "21:00",
+   "price_level": 1,
+   "review_count": 382,
+   "min_order_cents": 0,
+   "tags": [
+    "Healthy"
+   ]
+  },
+  {
+   "id": "r-1189",
+   "name": "Rosebank Chicken Shack",
+   "cuisines": [
+    "Chicken"
+   ],
+   "rating": 3.3,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 44,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 1.5,
+   "neighbourhood": "Melville",
+   "description": "Wings, strips and sandwiches in every heat level, plus all the sides.",
+   "address": null,
+   "opens_at": "08:00",
+   "closes_at": "20:00",
+   "price_level": 3,
+   "review_count": 1493,
+   "min_order_cents": 15000,
+   "tags": []
+  },
+  {
+   "id": "r-1190",
+   "name": "Sandton Fish Market",
+   "cuisines": [
+    "Seafood"
+   ],
+   "rating": 4.7,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 36,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1651323018466-b36b7df1d2b1?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 11.6,
+   "neighbourhood": "Rosebank",
+   "description": "Coastal kitchen with the day's catch, cold drinks and a sea breeze on the menu.",
+   "address": "225 Kloof Street, Rosebank",
+   "opens_at": "09:00",
+   "closes_at": "22:00",
+   "price_level": 1,
+   "review_count": 1659,
+   "min_order_cents": 7500,
+   "tags": [
+    "Top rated"
+   ]
+  },
+  {
+   "id": "r-1191",
+   "name": "Melville Kimchi House",
+   "cuisines": [
+    "Korean",
+    "Grill"
+   ],
+   "rating": 4.6,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 25,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1498654896293-37aacf113fd9?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 15.0,
+   "neighbourhood": "Rosebank",
+   "description": "Bold, fermented, fiery flavours with banchan to share.",
+   "address": "206 Victoria Road, Rosebank",
+   "opens_at": "08:00",
+   "closes_at": "23:30",
+   "price_level": 2,
+   "review_count": null,
+   "min_order_cents": 10000,
+   "tags": [
+    "Vegetarian friendly"
+   ]
+  },
+  {
+   "id": "r-1192",
+   "name": "Constantia Chop House",
+   "cuisines": [
+    "Steakhouse",
+    "Burgers"
+   ],
+   "rating": 3.9,
+   "delivery_fee_cents": 2500,
+   "eta_minutes": 15,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 12.7,
+   "neighbourhood": "Melville",
+   "description": "Flame-grilled steaks aged for 28 days, served with hand-cut chips and house-made sauces.",
+   "address": "172 Regent Road, Melville",
+   "opens_at": "11:00",
+   "closes_at": "23:30",
+   "price_level": 3,
+   "review_count": 408,
+   "min_order_cents": 7500,
+   "tags": []
+  },
+  {
+   "id": "r-1193",
+   "name": "Constantia Cantina",
+   "cuisines": [
+    "Mexican",
+    "Grill"
+   ],
+   "rating": 3.5,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 47,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1599974579688-8dbdd335c77f?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 3.4,
+   "neighbourhood": null,
+   "description": "Tacos, burritos and sizzling fajitas with tortillas pressed fresh every day.",
+   "address": "20 Dorp Street, Newlands",
+   "opens_at": "09:00",
+   "closes_at": "21:00",
+   "price_level": 2,
+   "review_count": 1157,
+   "min_order_cents": 0,
+   "tags": [
+    "Comfort food",
+    "Halaal",
+    "Late night"
+   ]
+  },
+  {
+   "id": "r-1194",
+   "name": "Green Point Burrito Bar",
+   "cuisines": [
+    "Mexican",
+    "Tex-Mex"
+   ],
+   "rating": 3.3,
+   "delivery_fee_cents": 3500,
+   "eta_minutes": 43,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 7.1,
+   "neighbourhood": "Camps Bay",
+   "description": "Tacos, burritos and sizzling fajitas with tortillas pressed fresh every day.",
+   "address": "27 Church Street, Camps Bay",
+   "opens_at": "10:00",
+   "closes_at": "20:00",
+   "price_level": 2,
+   "review_count": 18,
+   "min_order_cents": 0,
+   "tags": [
+    "Comfort food",
+    "Gluten-free options"
+   ]
+  },
+  {
+   "id": "r-1195",
+   "name": "Hout Bay Leaf & Bean",
+   "cuisines": [
+    "Vegan",
+    "Vegetarian"
+   ],
+   "rating": 4.8,
+   "delivery_fee_cents": 2500,
+   "eta_minutes": 50,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1623489254660-db5b367881d9?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 14.7,
+   "neighbourhood": "Fourways",
+   "description": "Colourful bowls, hearty mains and sweet treats, all made without animal products.",
+   "address": "184 Victoria Road, Fourways",
+   "opens_at": "07:00",
+   "closes_at": "20:00",
+   "price_level": 3,
+   "review_count": 926,
+   "min_order_cents": 0,
+   "tags": [
+    "Top rated",
+    "Halaal",
+    "Family favourite",
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1196",
+   "name": "Woodstock Catch of the Day",
+   "cuisines": [
+    "Seafood"
+   ],
+   "rating": 3.7,
+   "delivery_fee_cents": 3500,
+   "eta_minutes": 23,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1672636401225-ec3d4025a4af?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 2.1,
+   "neighbourhood": "Durban North",
+   "description": "Coastal kitchen with the day's catch, cold drinks and a sea breeze on the menu.",
+   "address": "28 Rivonia Road, Durban North",
+   "opens_at": "11:00",
+   "closes_at": "21:00",
+   "price_level": 1,
+   "review_count": 1627,
+   "min_order_cents": 0,
+   "tags": [
+    "Healthy",
+    "Vegetarian friendly",
+    "Halaal"
+   ]
+  },
+  {
+   "id": "r-1197",
+   "name": "Umhlanga Seoul Kitchen",
+   "cuisines": [
+    "Korean",
+    "Grill"
+   ],
+   "rating": 3.3,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 23,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 17.0,
+   "neighbourhood": "Claremont",
+   "description": null,
+   "address": "142 Beach Road, Claremont",
+   "opens_at": "11:00",
+   "closes_at": "23:00",
+   "price_level": 4,
+   "review_count": 743,
+   "min_order_cents": 15000,
+   "tags": [
+    "Vegetarian friendly",
+    "Gluten-free options",
+    "Late night"
+   ]
+  },
+  {
+   "id": "r-1198",
+   "name": "Sandton Dumpling House",
+   "cuisines": [
+    "Chinese",
+    "Noodles"
+   ],
+   "rating": 4.1,
+   "delivery_fee_cents": 2900,
+   "eta_minutes": 36,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 12.3,
+   "neighbourhood": "Melville",
+   "description": null,
+   "address": null,
+   "opens_at": "11:00",
+   "closes_at": "23:30",
+   "price_level": 2,
+   "review_count": 2261,
+   "min_order_cents": 5000,
+   "tags": [
+    "Spicy",
+    "Family favourite"
+   ]
+  },
+  {
+   "id": "r-1199",
+   "name": "Umhlanga Thai Kitchen",
+   "cuisines": [
+    "Thai",
+    "Noodles"
+   ],
+   "rating": 4.4,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 59,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1568882041008-c0954e91caba?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 4.0,
+   "neighbourhood": null,
+   "description": "Street-food favourites and slow-cooked curries made with fresh herbs.",
+   "address": "144 Dorp Street, Hout Bay",
+   "opens_at": "11:00",
+   "closes_at": "23:30",
+   "price_level": 4,
+   "review_count": 1727,
+   "min_order_cents": 15000,
+   "tags": [
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1200",
+   "name": "Hout Bay Plant Kitchen",
+   "cuisines": [
+    "Vegan",
+    "Healthy"
+   ],
+   "rating": 3.3,
+   "delivery_fee_cents": 1900,
+   "eta_minutes": 63,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1623428187969-5da2dcea5ebf?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 2.1,
+   "neighbourhood": "Umhlanga",
+   "description": "Colourful bowls, hearty mains and sweet treats, all made without animal products.",
+   "address": "38 Long Street, Umhlanga",
+   "opens_at": "12:00",
+   "closes_at": "22:00",
+   "price_level": 1,
+   "review_count": 2234,
+   "min_order_cents": 0,
+   "tags": [
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1201",
+   "name": "Fourways Cafe",
+   "cuisines": [
+    "Cafe",
+    "Breakfast"
+   ],
+   "rating": 4.5,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 39,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1601759226606-1352c1290364?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 12.8,
+   "neighbourhood": "Morningside",
+   "description": "A sunny corner cafe: slow brunches, small-batch roasts and fresh bakes.",
+   "address": "142 Long Street, Morningside",
+   "opens_at": null,
+   "closes_at": null,
+   "price_level": 1,
+   "review_count": 1832,
+   "min_order_cents": 0,
+   "tags": [
+    "Spicy",
+    "Family favourite",
+    "Great for groups"
+   ]
+  },
+  {
+   "id": "r-1202",
+   "name": "Maboneng Brunch Spot",
+   "cuisines": [
+    "Cafe",
+    "Breakfast"
+   ],
+   "rating": 4.5,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": null,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1595273193369-54bb86334a38?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 16.9,
+   "neighbourhood": "Fourways",
+   "description": "All-day breakfasts, good coffee and cabinet cakes that vanish by lunchtime.",
+   "address": "97 Long Street, Fourways",
+   "opens_at": "10:00",
+   "closes_at": "22:00",
+   "price_level": 2,
+   "review_count": 550,
+   "min_order_cents": 0,
+   "tags": [
+    "Great for groups"
+   ]
+  },
+  {
+   "id": "r-1203",
+   "name": "Cape Town Flame Grill",
+   "cuisines": [
+    "Portuguese",
+    "Chicken"
+   ],
+   "rating": 3.3,
+   "delivery_fee_cents": null,
+   "eta_minutes": 46,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1730900737724-5b752e1ed3dd?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 3.8,
+   "neighbourhood": "Newlands",
+   "description": "Flame-grilled chicken basted in our own peri-peri, from mild to melt-your-face hot.",
+   "address": "201 Regent Road, Newlands",
+   "opens_at": null,
+   "closes_at": null,
+   "price_level": 4,
+   "review_count": 2150,
+   "min_order_cents": 0,
+   "tags": [
+    "Comfort food",
+    "Halaal"
+   ]
+  },
+  {
+   "id": "r-1204",
+   "name": "Bryanston Dragon Kitchen",
+   "cuisines": [
+    "Chinese",
+    "Asian"
+   ],
+   "rating": 3.8,
+   "delivery_fee_cents": 2500,
+   "eta_minutes": 33,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 11.6,
+   "neighbourhood": "Gardens",
+   "description": "Fast, fiery and fragrant: proper wok hei from a very hot kitchen.",
+   "address": "144 Main Road, Gardens",
+   "opens_at": "07:00",
+   "closes_at": "22:00",
+   "price_level": 2,
+   "review_count": 1016,
+   "min_order_cents": null,
+   "tags": [
+    "Healthy"
+   ]
+  },
+  {
+   "id": "r-1205",
+   "name": "Observatory Fish Market",
+   "cuisines": [
+    "Seafood",
+    "Grill"
+   ],
+   "rating": 3.2,
+   "delivery_fee_cents": 0,
+   "eta_minutes": null,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1615141982883-c7ad0e69fd62?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 2.7,
+   "neighbourhood": "Constantia",
+   "description": "Line-caught fish, plump prawns and sweet calamari, cooked simply and served fast.",
+   "address": "25 Oxford Road, Constantia",
+   "opens_at": "11:00",
+   "closes_at": "23:30",
+   "price_level": 1,
+   "review_count": 286,
+   "min_order_cents": 0,
+   "tags": [
+    "Healthy",
+    "Late night",
+    "Gluten-free options"
+   ]
+  },
+  {
+   "id": "r-1206",
+   "name": "Claremont Bangkok Street",
+   "cuisines": [
+    "Thai"
+   ],
+   "rating": 3.5,
+   "delivery_fee_cents": 3500,
+   "eta_minutes": 60,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1552912470-ee2e96439539?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 1.8,
+   "neighbourhood": "Cape Town",
+   "description": "Bright, balanced Thai flavours: sweet, sour, salty and hot in every bite.",
+   "address": "46 Rivonia Road, Cape Town",
+   "opens_at": "11:00",
+   "closes_at": "20:00",
+   "price_level": 2,
+   "review_count": 950,
+   "min_order_cents": 5000,
+   "tags": [
+    "Vegetarian friendly",
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1207",
+   "name": "Observatory Olive Tree",
+   "cuisines": [
+    "Mediterranean",
+    "Middle Eastern"
+   ],
+   "rating": 3.7,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 63,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1542814880-7e62cf14b7c8?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 12.8,
+   "neighbourhood": "Cape Town",
+   "description": "Sharing plates, charcoal-grilled meats and warm pita from the oven.",
+   "address": "92 Bree Street, Cape Town",
+   "opens_at": "09:00",
+   "closes_at": "22:00",
+   "price_level": 2,
+   "review_count": 1171,
+   "min_order_cents": 7500,
+   "tags": [
+    "Vegetarian friendly",
+    "Late night"
+   ]
+  },
+  {
+   "id": "r-1208",
+   "name": "Observatory Waffle House",
+   "cuisines": [
+    "Dessert",
+    "Bakery"
+   ],
+   "rating": 4.1,
+   "delivery_fee_cents": 1900,
+   "eta_minutes": 55,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1517427294546-5aa121f68e8a?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 7.7,
+   "neighbourhood": "Green Point",
+   "description": "Small-batch ice cream, warm cookies and shakes thick enough to need a spoon.",
+   "address": "3 Jan Smuts Avenue, Green Point",
+   "opens_at": "07:00",
+   "closes_at": "20:00",
+   "price_level": 1,
+   "review_count": 1632,
+   "min_order_cents": 10000,
+   "tags": [
+    "Spicy"
+   ]
+  },
+  {
+   "id": "r-1209",
+   "name": "Parktown Pizzeria",
+   "cuisines": [
+    "Pizza",
+    "Pasta"
+   ],
+   "rating": 3.6,
+   "delivery_fee_cents": 1900,
+   "eta_minutes": 27,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 16.9,
+   "neighbourhood": "Stellenbosch",
+   "description": "Slow-proved dough, San Marzano tomatoes and a roaring wood-fired oven.",
+   "address": "218 Victoria Road, Stellenbosch",
+   "opens_at": "12:00",
+   "closes_at": "23:30",
+   "price_level": 1,
+   "review_count": 293,
+   "min_order_cents": 5000,
+   "tags": [
+    "Vegan options",
+    "Comfort food",
+    "Late night"
+   ]
+  },
+  {
+   "id": "r-1210",
+   "name": "Umhlanga Patty Co.",
+   "cuisines": [
+    "Burgers",
+    "Grill"
+   ],
+   "rating": 3.8,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 27,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1607013251379-e6eecfffe234?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 3.7,
+   "neighbourhood": null,
+   "description": "Big, messy, unapologetic burgers with loaded fries and thick shakes on the side.",
+   "address": "178 Jan Smuts Avenue, Parktown",
+   "opens_at": "11:00",
+   "closes_at": "23:30",
+   "price_level": 2,
+   "review_count": 1313,
+   "min_order_cents": 7500,
+   "tags": [
+    "Vegetarian friendly"
+   ]
+  },
+  {
+   "id": "r-1211",
+   "name": "Cape Town Dumpling House",
+   "cuisines": [
+    "Chinese",
+    "Asian"
+   ],
+   "rating": 4.4,
+   "delivery_fee_cents": 2500,
+   "eta_minutes": 45,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 9.1,
+   "neighbourhood": "Rosebank",
+   "description": "Fast, fiery and fragrant: proper wok hei from a very hot kitchen.",
+   "address": "125 Bree Street, Rosebank",
+   "opens_at": "08:00",
+   "closes_at": "23:30",
+   "price_level": 1,
+   "review_count": 1167,
+   "min_order_cents": 0,
+   "tags": [
+    "Great for groups",
+    "Healthy"
+   ]
+  },
+  {
+   "id": "r-1212",
+   "name": "Melville Lemongrass",
+   "cuisines": [
+    "Thai"
+   ],
+   "rating": 3.3,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 55,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 17.1,
+   "neighbourhood": "Cape Town",
+   "description": "Street-food favourites and slow-cooked curries made with fresh herbs.",
+   "address": "197 Florida Road, Cape Town",
+   "opens_at": "07:00",
+   "closes_at": "23:30",
+   "price_level": 2,
+   "review_count": 2228,
+   "min_order_cents": 7500,
+   "tags": []
+  },
+  {
+   "id": "r-1213",
+   "name": "Rosebank Curry House",
+   "cuisines": [
+    "Indian",
+    "Curry"
+   ],
+   "rating": 3.9,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 43,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1710091691780-c7eb0dc50cf8?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 17.9,
+   "neighbourhood": "Hout Bay",
+   "description": null,
+   "address": "189 Dorp Street, Hout Bay",
+   "opens_at": "09:00",
+   "closes_at": "20:00",
+   "price_level": 1,
+   "review_count": 2015,
+   "min_order_cents": 0,
+   "tags": [
+    "Halaal",
+    "Family favourite",
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1214",
+   "name": "Stellenbosch Pizzeria",
+   "cuisines": [
+    "Pizza",
+    "Pasta"
+   ],
+   "rating": 3.9,
+   "delivery_fee_cents": 2500,
+   "eta_minutes": 21,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1593504049359-74330189a345?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 16.7,
+   "neighbourhood": "Newlands",
+   "description": "Thin, blistered Neapolitan-style pizzas with simple, seriously good toppings.",
+   "address": "214 Rivonia Road, Newlands",
+   "opens_at": "11:00",
+   "closes_at": "23:30",
+   "price_level": 2,
+   "review_count": 1560,
+   "min_order_cents": 15000,
+   "tags": [
+    "Halaal",
+    "Comfort food"
+   ]
+  },
+  {
+   "id": "r-1215",
+   "name": "Newlands Creamery",
+   "cuisines": [
+    "Dessert",
+    "Ice Cream"
+   ],
+   "rating": 4.9,
+   "delivery_fee_cents": 2500,
+   "eta_minutes": 37,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 2.1,
+   "neighbourhood": "Observatory",
+   "description": "Waffles, gelato and baked-to-order treats for anyone with a sweet tooth.",
+   "address": "129 Jan Smuts Avenue, Observatory",
+   "opens_at": "10:00",
+   "closes_at": "21:00",
+   "price_level": 1,
+   "review_count": 2125,
+   "min_order_cents": 15000,
+   "tags": [
+    "Top rated",
+    "Late night"
+   ]
+  },
+  {
+   "id": "r-1216",
+   "name": "Umhlanga Piri-Piri",
+   "cuisines": [
+    "Portuguese",
+    "Grill"
+   ],
+   "rating": 4.2,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 41,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 8.3,
+   "neighbourhood": null,
+   "description": "Portuguese-inspired grill with crispy chips, spicy sauces and custard tarts.",
+   "address": "173 Dorp Street, Claremont",
+   "opens_at": "10:00",
+   "closes_at": "21:00",
+   "price_level": 2,
+   "review_count": 1701,
+   "min_order_cents": 0,
+   "tags": []
+  },
+  {
+   "id": "r-1217",
+   "name": "Sea Point Taqueria",
+   "cuisines": [
+    "Mexican",
+    "Tex-Mex"
+   ],
+   "rating": 3.4,
+   "delivery_fee_cents": 1900,
+   "eta_minutes": 26,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1599974579688-8dbdd335c77f?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 12.3,
+   "neighbourhood": "Durban North",
+   "description": "Tacos, burritos and sizzling fajitas with tortillas pressed fresh every day.",
+   "address": "225 Vilakazi Street, Durban North",
+   "opens_at": "07:00",
+   "closes_at": "21:00",
+   "price_level": 2,
+   "review_count": 1948,
+   "min_order_cents": 7500,
+   "tags": [
+    "Halaal",
+    "Vegan options",
+    "Comfort food"
+   ]
+  },
+  {
+   "id": "r-1218",
+   "name": "Stellenbosch Dumpling House",
+   "cuisines": [
+    "Chinese",
+    "Asian"
+   ],
+   "rating": 4.3,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 29,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 14.7,
+   "neighbourhood": "Fourways",
+   "description": "Wok-fired classics, hand-folded dumplings and generous family-style portions.",
+   "address": "52 Beach Road, Fourways",
+   "opens_at": "08:00",
+   "closes_at": "23:30",
+   "price_level": 1,
+   "review_count": 1967,
+   "min_order_cents": 10000,
+   "tags": [
+    "Great for groups",
+    "Vegan options",
+    "Healthy"
+   ]
+  },
+  {
+   "id": "r-1219",
+   "name": "Green Point Maki House",
+   "cuisines": [
+    "Sushi"
+   ],
+   "rating": 3.4,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 64,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 10.4,
+   "neighbourhood": "Green Point",
+   "description": "Modern Japanese kitchen: crisp tempura, delicate rolls and generous platters for sharing.",
+   "address": "95 Long Street, Green Point",
+   "opens_at": "12:00",
+   "closes_at": "23:30",
+   "price_level": 2,
+   "review_count": 1992,
+   "min_order_cents": 7500,
+   "tags": [
+    "Comfort food"
+   ]
+  },
+  {
+   "id": "r-1220",
+   "name": "Morningside Brunch Spot",
+   "cuisines": [
+    "Cafe",
+    "Breakfast"
+   ],
+   "rating": 3.6,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 41,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1612888327680-affb9c271a61?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 12.4,
+   "neighbourhood": "Parktown",
+   "description": "All-day breakfasts, good coffee and cabinet cakes that vanish by lunchtime.",
+   "address": "148 Bree Street, Parktown",
+   "opens_at": "11:00",
+   "closes_at": "20:00",
+   "price_level": 2,
+   "review_count": 859,
+   "min_order_cents": 15000,
+   "tags": [
+    "Vegetarian friendly"
+   ]
+  },
+  {
+   "id": "r-1221",
+   "name": "Maboneng Oyster Bar",
+   "cuisines": [
+    "Seafood",
+    "Grill"
+   ],
+   "rating": 4.2,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 65,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1615141982883-c7ad0e69fd62?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 13.5,
+   "neighbourhood": "Bryanston",
+   "description": "Coastal kitchen with the day's catch, cold drinks and a sea breeze on the menu.",
+   "address": "65 Vilakazi Street, Bryanston",
+   "opens_at": "11:00",
+   "closes_at": "22:00",
+   "price_level": 3,
+   "review_count": 1648,
+   "min_order_cents": 15000,
+   "tags": [
+    "Great for groups",
+    "Spicy",
+    "Family favourite"
+   ]
+  },
+  {
+   "id": "r-1222",
+   "name": "Claremont Tandoor",
+   "cuisines": [
+    "Indian",
+    "Vegetarian"
+   ],
+   "rating": 4.5,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 40,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 6.3,
+   "neighbourhood": "Umhlanga",
+   "description": "Aromatic curries simmered for hours and breads straight from the tandoor.",
+   "address": "42 Church Street, Umhlanga",
+   "opens_at": "12:00",
+   "closes_at": "20:00",
+   "price_level": null,
+   "review_count": 613,
+   "min_order_cents": 7500,
+   "tags": [
+    "Vegetarian friendly"
+   ]
+  },
+  {
+   "id": "r-1223",
+   "name": "Camps Bay Meze",
+   "cuisines": [
+    "Mediterranean",
+    "Middle Eastern"
+   ],
+   "rating": 3.3,
+   "delivery_fee_cents": 2900,
+   "eta_minutes": 40,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1523986371872-9d3ba2e2a389?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 2.4,
+   "neighbourhood": "Menlyn",
+   "description": "Sharing plates, charcoal-grilled meats and warm pita from the oven.",
+   "address": "199 Oxford Road, Menlyn",
+   "opens_at": "12:00",
+   "closes_at": "23:00",
+   "price_level": 2,
+   "review_count": 844,
+   "min_order_cents": 15000,
+   "tags": []
+  },
+  {
+   "id": "r-1224",
+   "name": "Umhlanga Plant Kitchen",
+   "cuisines": [
+    "Vegan"
+   ],
+   "rating": 4.1,
+   "delivery_fee_cents": 0,
+   "eta_minutes": 38,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1623428187969-5da2dcea5ebf?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 0.5,
+   "neighbourhood": "Durban North",
+   "description": "100% plant-based comfort food that doesn't feel like a compromise.",
+   "address": "23 Rivonia Road, Durban North",
+   "opens_at": "10:00",
+   "closes_at": "22:00",
+   "price_level": 3,
+   "review_count": 1678,
+   "min_order_cents": 10000,
+   "tags": [
+    "Comfort food",
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1225",
+   "name": "Hout Bay Thai Kitchen",
+   "cuisines": [
+    "Thai",
+    "Asian"
+   ],
+   "rating": 4.8,
+   "delivery_fee_cents": 1900,
+   "eta_minutes": 29,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1627308595186-e6bb36712645?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 6.4,
+   "neighbourhood": "Woodstock",
+   "description": "Street-food favourites and slow-cooked curries made with fresh herbs.",
+   "address": "148 Main Road, Woodstock",
+   "opens_at": "09:00",
+   "closes_at": "21:00",
+   "price_level": 2,
+   "review_count": 454,
+   "min_order_cents": 10000,
+   "tags": [
+    "Top rated",
+    "Great for groups",
+    "Late night",
+    "Healthy"
+   ]
+  },
+  {
+   "id": "r-1226",
+   "name": "Hout Bay Wood Fire Pizza",
+   "cuisines": [
+    "Pizza",
+    "Italian"
+   ],
+   "rating": 4.6,
+   "delivery_fee_cents": 3500,
+   "eta_minutes": 39,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1593504049359-74330189a345?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 12.8,
+   "neighbourhood": "Morningside",
+   "description": "Thin, blistered Neapolitan-style pizzas with simple, seriously good toppings.",
+   "address": "199 Victoria Road, Morningside",
+   "opens_at": "12:00",
+   "closes_at": "23:00",
+   "price_level": 3,
+   "review_count": 130,
+   "min_order_cents": 7500,
+   "tags": [
+    "Late night",
+    "Great for groups"
+   ]
+  },
+  {
+   "id": "r-1227",
+   "name": "Melville Burger Joint",
+   "cuisines": [
+    "Burgers",
+    "American"
+   ],
+   "rating": 4.4,
+   "delivery_fee_cents": 2500,
+   "eta_minutes": 48,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 10.1,
+   "neighbourhood": "Bryanston",
+   "description": "Big, messy, unapologetic burgers with loaded fries and thick shakes on the side.",
+   "address": "64 Vilakazi Street, Bryanston",
+   "opens_at": "07:00",
+   "closes_at": "23:00",
+   "price_level": 3,
+   "review_count": 1418,
+   "min_order_cents": 0,
+   "tags": [
+    "Healthy"
+   ]
+  },
+  {
+   "id": "r-1228",
+   "name": "Constantia Dumpling House",
+   "cuisines": [
+    "Chinese",
+    "Noodles"
+   ],
+   "rating": 3.5,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 30,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 2.4,
+   "neighbourhood": "Menlyn",
+   "description": "Wok-fired classics, hand-folded dumplings and generous family-style portions.",
+   "address": "59 Florida Road, Menlyn",
+   "opens_at": "08:00",
+   "closes_at": "23:30",
+   "price_level": null,
+   "review_count": 454,
+   "min_order_cents": 0,
+   "tags": [
+    "Gluten-free options"
+   ]
+  },
+  {
+   "id": "r-1229",
+   "name": "Claremont Slice Co.",
+   "cuisines": [
+    "Pizza",
+    "Italian"
+   ],
+   "rating": 4.5,
+   "delivery_fee_cents": 2500,
+   "eta_minutes": 46,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 1.8,
+   "neighbourhood": "Braamfontein",
+   "description": "Thin, blistered Neapolitan-style pizzas with simple, seriously good toppings.",
+   "address": "126 Oxford Road, Braamfontein",
+   "opens_at": "11:00",
+   "closes_at": "22:00",
+   "price_level": 2,
+   "review_count": 2380,
+   "min_order_cents": 0,
+   "tags": [
+    "Halaal",
+    "Gluten-free options",
+    "Healthy"
+   ]
+  },
+  {
+   "id": "r-1230",
+   "name": "Hout Bay Sushi Co.",
+   "cuisines": [
+    "Sushi",
+    "Japanese"
+   ],
+   "rating": 4.1,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 44,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 3.2,
+   "neighbourhood": null,
+   "description": "Hand-rolled sushi and sashimi made to order with fresh fish delivered daily.",
+   "address": "98 Bree Street, Sandton",
+   "opens_at": "09:00",
+   "closes_at": "22:00",
+   "price_level": 2,
+   "review_count": 1081,
+   "min_order_cents": 0,
+   "tags": [
+    "Vegan options",
+    "Gluten-free options"
+   ]
+  },
+  {
+   "id": "r-1231",
+   "name": "Stellenbosch Flame Grill",
+   "cuisines": [
+    "Portuguese",
+    "Grill"
+   ],
+   "rating": 3.8,
+   "delivery_fee_cents": 2500,
+   "eta_minutes": 38,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 10.3,
+   "neighbourhood": "Bryanston",
+   "description": "Flame-grilled chicken basted in our own peri-peri, from mild to melt-your-face hot.",
+   "address": "147 Jan Smuts Avenue, Bryanston",
+   "opens_at": "11:00",
+   "closes_at": "21:00",
+   "price_level": 3,
+   "review_count": 1123,
+   "min_order_cents": 0,
+   "tags": [
+    "Spicy",
+    "Family favourite"
+   ]
+  },
+  {
+   "id": "r-1232",
+   "name": "Observatory Meze",
+   "cuisines": [
+    "Mediterranean",
+    "Greek"
+   ],
+   "rating": 4.0,
+   "delivery_fee_cents": 2900,
+   "eta_minutes": 46,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1542814880-7e62cf14b7c8?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 8.4,
+   "neighbourhood": "Durban North",
+   "description": "Sun-soaked Mediterranean cooking built on olive oil, lemon and fresh herbs.",
+   "address": "202 Dorp Street, Durban North",
+   "opens_at": "09:00",
+   "closes_at": "22:00",
+   "price_level": 2,
+   "review_count": 2343,
+   "min_order_cents": 0,
+   "tags": []
+  },
+  {
+   "id": "r-1233",
+   "name": "Sandton Waffle House",
+   "cuisines": [
+    "Dessert",
+    "Bakery"
+   ],
+   "rating": 4.6,
+   "delivery_fee_cents": 2500,
+   "eta_minutes": 31,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 0.9,
+   "neighbourhood": "Menlyn",
+   "description": "Small-batch ice cream, warm cookies and shakes thick enough to need a spoon.",
+   "address": "89 Main Road, Menlyn",
+   "opens_at": "10:00",
+   "closes_at": "20:00",
+   "price_level": 2,
+   "review_count": 832,
+   "min_order_cents": 10000,
+   "tags": [
+    "Vegetarian friendly",
+    "Gluten-free options"
+   ]
+  },
+  {
+   "id": "r-1234",
+   "name": "Parktown Dumpling House",
+   "cuisines": [
+    "Chinese",
+    "Noodles"
+   ],
+   "rating": 4.5,
+   "delivery_fee_cents": 1900,
+   "eta_minutes": 44,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 5.4,
+   "neighbourhood": "Braamfontein",
+   "description": "Wok-fired classics, hand-folded dumplings and generous family-style portions.",
+   "address": "164 Regent Road, Braamfontein",
+   "opens_at": "10:00",
+   "closes_at": "23:30",
+   "price_level": 2,
+   "review_count": 310,
+   "min_order_cents": 0,
+   "tags": [
+    "Vegetarian friendly",
+    "Spicy"
+   ]
+  },
+  {
+   "id": "r-1235",
+   "name": "Gardens Wok",
+   "cuisines": [
+    "Chinese",
+    "Noodles"
+   ],
+   "rating": 4.4,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 43,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 16.9,
+   "neighbourhood": "Woodstock",
+   "description": "Wok-fired classics, hand-folded dumplings and generous family-style portions.",
+   "address": "33 Chiappini Street, Woodstock",
+   "opens_at": "12:00",
+   "closes_at": "22:00",
+   "price_level": 4,
+   "review_count": 345,
+   "min_order_cents": 0,
+   "tags": [
+    "Spicy",
+    "Great for groups",
+    "Gluten-free options"
+   ]
+  },
+  {
+   "id": "r-1236",
+   "name": "Observatory Wok",
+   "cuisines": [
+    "Chinese",
+    "Noodles"
+   ],
+   "rating": 4.1,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 63,
+   "is_open": false,
+   "image_url": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 8.6,
+   "neighbourhood": "Observatory",
+   "description": "Wok-fired classics, hand-folded dumplings and generous family-style portions.",
+   "address": "22 Church Street, Observatory",
+   "opens_at": "09:00",
+   "closes_at": "21:00",
+   "price_level": 1,
+   "review_count": 1181,
+   "min_order_cents": 7500,
+   "tags": []
+  },
+  {
+   "id": "r-1237",
+   "name": "Rosebank Spice Route",
+   "cuisines": [
+    "Indian"
+   ],
+   "rating": 3.2,
+   "delivery_fee_cents": 4500,
+   "eta_minutes": 32,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1710091691780-c7eb0dc50cf8?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 10.2,
+   "neighbourhood": "Fourways",
+   "description": "Aromatic curries simmered for hours and breads straight from the tandoor.",
+   "address": "152 Victoria Road, Fourways",
+   "opens_at": "12:00",
+   "closes_at": "23:30",
+   "price_level": 2,
+   "review_count": 2204,
+   "min_order_cents": 5000,
+   "tags": [
+    "Healthy",
+    "Gluten-free options"
+   ]
+  },
+  {
+   "id": "r-1238",
+   "name": "Constantia Brunch Spot",
+   "cuisines": [
+    "Cafe",
+    "Breakfast"
+   ],
+   "rating": 4.0,
+   "delivery_fee_cents": 1900,
+   "eta_minutes": 15,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1766557050127-756f8fcb905c?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 14.2,
+   "neighbourhood": "Rosebank",
+   "description": "All-day breakfasts, good coffee and cabinet cakes that vanish by lunchtime.",
+   "address": "89 Vilakazi Street, Rosebank",
+   "opens_at": "10:00",
+   "closes_at": "23:30",
+   "price_level": 1,
+   "review_count": 2032,
+   "min_order_cents": 7500,
+   "tags": [
+    "Spicy",
+    "Great for groups"
+   ]
+  },
+  {
+   "id": "r-1239",
+   "name": "Cape Town Green Table",
+   "cuisines": [
+    "Vegan"
+   ],
+   "rating": 4.2,
+   "delivery_fee_cents": 2500,
+   "eta_minutes": 27,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1569760142069-bc6838de16c1?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 8.6,
+   "neighbourhood": "Green Point",
+   "description": "Colourful bowls, hearty mains and sweet treats, all made without animal products.",
+   "address": "64 Oxford Road, Green Point",
+   "opens_at": "12:00",
+   "closes_at": "23:00",
+   "price_level": 3,
+   "review_count": 921,
+   "min_order_cents": 5000,
+   "tags": [
+    "Vegan options"
+   ]
+  },
+  {
+   "id": "r-1240",
+   "name": "Bryanston Slice Co.",
+   "cuisines": [
+    "Pizza",
+    "Pasta"
+   ],
+   "rating": 3.7,
+   "delivery_fee_cents": 1500,
+   "eta_minutes": 23,
+   "is_open": true,
+   "image_url": "https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?auto=format&fit=crop&w=800&q=70",
+   "distance_km": 2.8,
+   "neighbourhood": "Camps Bay",
+   "description": "Thin, blistered Neapolitan-style pizzas with simple, seriously good toppings.",
+   "address": "70 Dorp Street, Camps Bay",
+   "opens_at": "08:00",
+   "closes_at": "22:00",
+   "price_level": 1,
+   "review_count": null,
+   "min_order_cents": 10000,
+   "tags": [
+    "Great for groups",
+    "Spicy",
+    "Family favourite"
+   ]
+  }
+ ]
+}

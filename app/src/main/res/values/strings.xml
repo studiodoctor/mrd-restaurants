@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mr D Restaurants</string>
+
+    <!-- Browse -->
+    <string name="browse_title">Restaurants near you</string>
+    <string name="browse_kicker">Mr D · Near you</string>
+    <string name="browse_headline">What are you craving?</string>
+    <plurals name="restaurants_count">
+        <item quantity="one">%d restaurant near you</item>
+        <item quantity="other">%d restaurants near you</item>
+    </plurals>
+    <string name="search_hint">Search restaurants</string>
+    <string name="popular_title">Popular right now</string>
+    <string name="popular_subtitle">Open now and loved by locals</string>
+    <string name="all_restaurants">All restaurants</string>
+    <string name="clear_search">Clear search</string>
+    <string name="filter_open_now">Open now</string>
+    <string name="loading_restaurants">Loading restaurants</string>
+
+    <!-- Status / metadata -->
+    <string name="status_open">Open</string>
+    <string name="status_closed">Closed</string>
+    <string name="fee_free">Free delivery</string>
+    <string name="fee_unknown">Fee unavailable</string>
+    <string name="fee_format">%1$s delivery</string>
+    <string name="eta_format">%1$d min</string>
+    <string name="eta_unknown">ETA unavailable</string>
+    <string name="rating_format">★ %1$s</string>
+    <string name="rating_unrated">New</string>
+    <string name="rating_content_description">Rated %1$s out of 5</string>
+
+    <!-- Filters -->
+    <string name="filters_chip">Filters</string>
+    <string name="filters_chip_count">Filters · %1$d</string>
+    <string name="filter_title">Filters &amp; sort</string>
+    <string name="filter_reset">Reset</string>
+    <string name="filter_done">Show restaurants</string>
+    <string name="filter_any">Any</string>
+    <string name="filter_sort">Sort by</string>
+    <string name="filter_rating">Rating</string>
+    <string name="filter_reviews">Reviews</string>
+    <string name="filter_distance">Distance</string>
+    <string name="filter_eta">Delivery time</string>
+    <string name="filter_fee">Delivery fee</string>
+    <string name="filter_price">Price</string>
+    <string name="filter_cuisine">Cuisine</string>
+    <string name="filter_dietary">Dietary</string>
+    <string name="filter_rating_value">%1$s ★ &amp; up</string>
+    <string name="filter_reviews_value">%1$d+ reviews</string>
+    <string name="filter_distance_value">Within %1$d km</string>
+    <string name="filter_eta_value">Under %1$d min</string>
+    <string name="filter_up_to">Up to %1$s</string>
+    <string name="sort_recommended">Recommended</string>
+    <string name="sort_top_rated">Top rated</string>
+    <string name="sort_fastest">Fastest delivery</string>
+    <string name="sort_nearest">Nearest</string>
+    <string name="sort_cheapest_delivery">Cheapest delivery</string>
+    <string name="sort_most_reviewed">Most reviewed</string>
+    <string name="distance_km">%1$s km away</string>
+
+    <!-- Settings -->
+    <string name="settings_open">Settings</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_section_you">Your restaurants</string>
+    <string name="settings_section_appearance">Appearance</string>
+    <string name="settings_section_about">About</string>
+    <string name="settings_favorites">Favourites</string>
+    <string name="settings_favorites_hint">Restaurants you\'ve saved</string>
+    <string name="settings_version">Version %1$s</string>
+
+    <!-- Theme -->
+    <string name="theme_menu">Change theme</string>
+    <string name="theme_title">Appearance</string>
+    <string name="theme_system">System default</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_selected">Selected</string>
+
+    <!-- Favourites -->
+    <string name="favorites_open">Open favourites</string>
+    <string name="favorites_title">Your favourites</string>
+    <plurals name="favorites_count">
+        <item quantity="one">%d saved restaurant</item>
+        <item quantity="other">%d saved restaurants</item>
+    </plurals>
+    <string name="favorites_empty_title">No favourites yet</string>
+    <string name="favorites_empty_body">Tap the heart on any restaurant to save it here.</string>
+    <string name="favorite_add">Add %1$s to favourites</string>
+    <string name="favorite_remove">Remove %1$s from favourites</string>
+
+    <!-- Offline / error -->
+    <string name="banner_offline">You\'re offline. Showing saved restaurants.</string>
+    <string name="banner_server">Mr D is having trouble right now. Showing saved restaurants.</string>
+    <string name="banner_invalid">We couldn\'t read the latest update. Showing saved restaurants.</string>
+    <string name="last_updated">Updated %1$s</string>
+    <string name="action_retry">Try again</string>
+    <string name="error_title">Can\'t load restaurants</string>
+    <string name="error_network_body">Check your connection and try again.</string>
+    <string name="error_server_body">Something went wrong on our side. Please try again in a moment.</string>
+    <string name="error_invalid_body">We received data we couldn\'t understand. Please try again.</string>
+
+    <!-- Empty -->
+    <string name="empty_title">No restaurants found</string>
+    <string name="empty_filtered_body">Try a different name, or loosen your filters.</string>
+    <string name="empty_clear">Clear filters</string>
+
+    <!-- Detail -->
+    <string name="detail_back">Back</string>
+    <string name="detail_rating">Rating</string>
+    <string name="detail_eta">Delivery time</string>
+    <string name="detail_fee">Delivery fee</string>
+    <string name="detail_not_found_title">Restaurant not found</string>
+    <string name="detail_not_found_body">It may have been removed, or the link is out of date.</string>
+    <string name="detail_back_to_list">Back to restaurants</string>
+    <string name="detail_opens_at">Opens at %1$s</string>
+    <string name="detail_closes_at">Closes at %1$s</string>
+    <string name="detail_about">About</string>
+    <string name="detail_hours">Opening hours</string>
+    <string name="detail_hours_value">%1$s – %2$s</string>
+    <string name="detail_address">Address</string>
+    <string name="detail_min_order">Min. order</string>
+    <string name="detail_delivery_short">Delivery</string>
+    <string name="detail_fee_short">Fee</string>
+    <plurals name="detail_reviews">
+        <item quantity="one">%d review</item>
+        <item quantity="other">%d reviews</item>
+    </plurals>
+    <string name="price_level_cd">Price level %1$d of 4</string>
+    <string name="tile_unknown">—</string>
+    <string name="tile_free">Free</string>
+    <string name="tile_none">No minimum</string>
+
+    <!-- Menu -->
+    <string name="menu_title">Menu</string>
+    <string name="menu_loading">Loading menu</string>
+    <plurals name="menu_item_count">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d items</item>
+    </plurals>
+    <string name="menu_sold_out">Sold out</string>
+    <string name="menu_price_on_request">Price on request</string>
+    <string name="menu_add_option">+ %1$s</string>
+    <string name="menu_empty_title">Menu coming soon</string>
+    <string name="menu_empty_body">This restaurant hasn\'t published its menu yet.</string>
+    <string name="menu_error_title">Can\'t load the menu</string>
+    <string name="menu_prices_note">Prices and availability may change.</string>
+
+    <!-- Developer options (debug builds only) -->
+    <string name="debug_menu">Developer options</string>
+    <string name="debug_network_online">Network: online</string>
+    <string name="debug_network_offline">Network: offline</string>
+    <string name="debug_network_error">Network: server error (503)</string>
+</resources>
